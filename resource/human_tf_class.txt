@@ -1,0 +1,1657 @@
+gene	number	code	class
+ABCF2	1	0010000	Others
+AC012531.1	1	0010000	Others
+AC020909.1	1	1000000	Transcription factor
+ACF	2	1001000	RNA binding protein,Transcription factor
+ACO1	1	0000010	Nuclear enzyme
+ADARB1	1	0000010	Nuclear enzyme
+ADNP	2	1100000	Transcription cofactor,Transcription factor
+AEBP2	2	1000100	Chromatin remodeller,Transcription factor
+AFF1	2	1001000	Transcription factor,RNA binding protein
+AFF4	1	1000000	Transcription factor
+AFP	2	1001000	Transcription factor,RNA binding protein
+AGAP2	1	0010000	Others
+AGGF1	1	0010000	Others
+AGO1	3	1101000	Transcription cofactor,RNA binding protein,Transcription factor
+AGO2	3	1101000	Transcription factor,RNA binding protein,Transcription cofactor
+AHR	2	1001000	RNA binding protein,Transcription factor
+AIRE	2	1000100	Transcription factor,Chromatin remodeller
+AKR1A1	1	0000010	Nuclear enzyme
+ALX1	1	1000000	Transcription factor
+ALX3	1	1000000	Transcription factor
+ALX4	1	1000000	Transcription factor
+ANXA1	1	0010000	Others
+ANXA11	1	0010000	Others
+AP1M2	1	0010000	Others
+AP3B1	1	0010000	Others
+AP5Z1	2	1010000	Others,Transcription factor
+APEX2	1	0010000	Others
+AR	2	1001000	Transcription factor,RNA binding protein
+ARFGAP1	1	0000010	Nuclear enzyme
+ARGFX	1	1000000	Transcription factor
+ARHGAP35	2	1100000	Transcription cofactor,Transcription factor
+ARHGEF12	1	0010000	Others
+ARID1A	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+ARID1B	2	1000100	Transcription factor,Chromatin remodeller
+ARID2	2	1100000	Transcription factor,Transcription cofactor
+ARID3A	1	1000000	Transcription factor
+ARID3B	1	1000000	Transcription factor
+ARID3C	1	1000000	Transcription factor
+ARID5A	1	1000000	Transcription factor
+ARID5B	1	1000000	Transcription factor
+ARNT	1	1000000	Transcription factor
+ARNT2	1	1000000	Transcription factor
+ARNTL	1	1000000	Transcription factor
+ARNTL2	1	1000000	Transcription factor
+ARRB1	1	0100000	Transcription cofactor
+ARX	2	1001000	Transcription factor,RNA binding protein
+ASAP3	1	0010000	Others
+ASCC1	1	0100000	Transcription cofactor
+ASCL1	1	1000000	Transcription factor
+ASCL2	1	1000000	Transcription factor
+ASH1L	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+ASH2L	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+ASPSCR1	1	0010000	Others
+ASXL1	3	0100101	Chromatin remodeller,Polycomb group (PcG) protein,Transcription cofactor
+ATF1	1	1000000	Transcription factor
+ATF2	2	1000100	Chromatin remodeller,Transcription factor
+ATF3	1	1000000	Transcription factor
+ATF4	1	1000000	Transcription factor
+ATF5	1	1000000	Transcription factor
+ATF6	1	1000000	Transcription factor
+ATF6B	1	1000000	Transcription factor
+ATF7	1	1000000	Transcription factor
+ATOH1	1	1000000	Transcription factor
+ATOH7	1	1000000	Transcription factor
+ATOH8	1	1000000	Transcription factor
+ATRX	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+ATRX	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+AVEN	1	1000000	Transcription factor
+BACH1	1	1000000	Transcription factor
+BACH2	1	1000000	Transcription factor
+BAHD1	1	0000100	Chromatin remodeller
+BARHL1	1	1000000	Transcription factor
+BARHL2	1	1000000	Transcription factor
+BARX1	1	1000000	Transcription factor
+BARX2	1	1000000	Transcription factor
+BATF	1	1000000	Transcription factor
+BATF3	1	1000000	Transcription factor
+BAX	2	1001000	Transcription factor,RNA binding protein
+BBX	2	1001000	Transcription factor,RNA binding protein
+BCL11A	1	1000000	Transcription factor
+BCL11B	1	1000000	Transcription factor
+BCL2	1	0010000	Others
+BCL3	2	1100000	Transcription cofactor,Transcription factor
+BCL3	2	1100000	Transcription factor,Transcription cofactor
+BCL6	1	1000000	Transcription factor
+BCL6B	1	1000000	Transcription factor
+BCLAF1	2	1001000	RNA binding protein,Transcription factor
+BCOR	2	1100000	Transcription factor,Transcription cofactor
+BDP1	2	1100000	Transcription factor,Transcription cofactor
+BHLHA15	1	1000000	Transcription factor
+BHLHE22	1	1000000	Transcription factor
+BHLHE23	1	1000000	Transcription factor
+BHLHE40	1	1000000	Transcription factor
+BHLHE41	1	1000000	Transcription factor
+BMI1	4	1100101	Polycomb group (PcG) protein,Transcription cofactor,Transcription factor,Chromatin remodeller
+BMI1	4	1100101	Transcription cofactor,Transcription factor,Chromatin remodeller,Polycomb group (PcG) protein
+BMPR1A	1	0010000	Others
+BOLL	1	0001000	RNA binding protein
+BPTF	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+BRCA1	2	1100000	Transcription cofactor,Transcription factor
+BRD1	2	0100100	Chromatin remodeller,Transcription cofactor
+BRD2	2	0100100	Chromatin remodeller,Transcription cofactor
+BRD3	2	0100100	Chromatin remodeller,Transcription cofactor
+BRD4	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+BRD4	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+BRD9	2	1000100	Transcription factor,Chromatin remodeller
+BRF1	2	1100000	Transcription factor,Transcription cofactor
+BRF2	2	1100000	Transcription cofactor,Transcription factor
+BSX	1	1000000	Transcription factor
+C19orf25	1	0010000	Others
+CACD	1	0010000	Others
+CARM1	2	0100100	Chromatin remodeller,Transcription cofactor
+CASZ1	1	1000000	Transcription factor
+CAT	2	1001000	Transcription factor,RNA binding protein
+CAVIN1	2	1100000	Transcription cofactor,Transcription factor
+CAVIN1	2	1100000	Transcription factor,Transcription cofactor
+CBFA2T2	2	1100000	Transcription factor,Transcription cofactor
+CBFA2T3	2	1100000	Transcription cofactor,Transcription factor
+CBFB	1	1000000	Transcription factor
+CBX1	2	1000100	Chromatin remodeller,Transcription factor
+CBX1	2	1000100	Transcription factor,Chromatin remodeller
+CBX2	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+CBX3	4	1101100	Chromatin remodeller,Transcription factor,RNA binding protein,Transcription cofactor
+CBX3	4	1101100	Transcription factor,Transcription cofactor,RNA binding protein,Chromatin remodeller
+CBX4	2	0100100	Chromatin remodeller,Transcription cofactor
+CBX5	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+CBX7	2	0100100	Chromatin remodeller,Transcription cofactor
+CBX8	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+CC2D1A	1	1000000	Transcription factor
+CCAR2	3	1101000	Transcription factor,RNA binding protein,Transcription cofactor
+CCDC25	1	0010000	Others
+CCDC6	1	0010000	Others
+CCNT2	2	1100000	Transcription cofactor,Transcription factor
+CCNT2	2	1100000	Transcription factor,Transcription cofactor
+CD59	1	1000000	Transcription factor
+CDC5L	1	1000000	Transcription factor
+CDK2	1	0100000	Transcription cofactor
+CDK6	1	0000010	Nuclear enzyme
+CDK7	1	0100000	Transcription cofactor
+CDK8	1	0100000	Transcription cofactor
+CDK9	1	0100000	Transcription cofactor
+CDX1	1	1000000	Transcription factor
+CDX2	1	1000000	Transcription factor
+CDX4	1	1000000	Transcription factor
+CEBPA	1	1000000	Transcription factor
+CEBPB	1	1000000	Transcription factor
+CEBPD	1	1000000	Transcription factor
+CEBPE	1	1000000	Transcription factor
+CEBPG	1	1000000	Transcription factor
+CEBPZ	2	1001000	RNA binding protein,Transcription factor
+CEBPZ	2	1001000	Transcription factor,RNA binding protein
+CELF4	1	0010000	Others
+CELF5	1	0010000	Others
+CENPB	2	1100000	Transcription cofactor,Transcription factor
+CERS4	1	0010000	Others
+CFL2	1	0010000	Others
+CHAMP1	1	1000000	Transcription factor
+CHD1	4	1101100	Chromatin remodeller,RNA binding protein,Transcription factor,Transcription cofactor
+CHD1	4	1101100	Chromatin remodeller,Transcription factor,RNA binding protein,Transcription cofactor
+CHD2	3	1001100	Chromatin remodeller,RNA binding protein,Transcription factor
+CHD2	3	1001100	Chromatin remodeller,Transcription factor,RNA binding protein
+CHD3	2	0100100	Transcription cofactor,Chromatin remodeller
+CHD4	4	1101100	Chromatin remodeller,RNA binding protein,Transcription factor,Transcription cofactor
+CHD4	4	1101100	Chromatin remodeller,Transcription factor,RNA binding protein,Transcription cofactor
+CHD7	4	1101100	Chromatin remodeller,RNA binding protein,Transcription cofactor,Transcription factor
+CHD7	4	1101100	RNA binding protein,Transcription factor,Transcription cofactor,Chromatin remodeller
+CHD8	2	0100100	Transcription cofactor,Chromatin remodeller
+CHURC1	1	0010000	Others
+CIC	2	1001000	Transcription factor,RNA binding protein
+CIITA	1	0100000	Transcription cofactor
+CKMT1B	1	0000010	Nuclear enzyme
+CLK1	1	0000010	Nuclear enzyme
+CLOCK	2	1000100	Transcription factor,Chromatin remodeller
+CNOT6	1	0100000	Transcription cofactor
+COPS2	2	1100000	Transcription factor,Transcription cofactor
+CPEB1	1	1000000	Transcription factor
+CPSF4	1	0010000	Others
+CREB1	1	1000000	Transcription factor
+CREB3	1	1000000	Transcription factor
+CREB3L1	1	1000000	Transcription factor
+CREB3L2	1	1000000	Transcription factor
+CREB3L4	1	1000000	Transcription factor
+CREB5	1	1000000	Transcription factor
+CREBBP	4	1101100	Chromatin remodeller,Transcription factor,RNA binding protein,Transcription cofactor
+CREBBP	4	1101100	Transcription cofactor,Transcription factor,RNA binding protein,Chromatin remodeller
+CREBL2	1	1000000	Transcription factor
+CREM	1	1000000	Transcription factor
+CRX	2	1000100	Transcription factor,Chromatin remodeller
+CRY1	1	0100000	Transcription cofactor
+CSDE1	2	1001000	Transcription factor,RNA binding protein
+CSNK2A1	1	0100000	Transcription cofactor
+CSNK2B	1	0000010	Nuclear enzyme
+CSTA	1	0010000	Others
+CSTF2	1	0010000	Others
+CTAA1	1	0010000	Others
+CTBP1	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+CTBP2	2	1100000	Transcription factor,Transcription cofactor
+CTCF	3	1001100	Chromatin remodeller,RNA binding protein,Transcription factor
+CTCF	3	1001100	RNA binding protein,Chromatin remodeller,Transcription factor
+CTCFL	1	1000000	Transcription factor
+CTNNB1	1	0100000	Transcription cofactor
+CUX1	1	1000000	Transcription factor
+CUX2	1	1000000	Transcription factor
+CXXC1	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+CXXC4	1	1000000	Transcription factor
+CYB5R1	1	0000010	Nuclear enzyme
+CYCS	1	0010000	Others
+DAB2	1	0100000	Transcription cofactor
+DACH1	1	1000000	Transcription factor
+DAXX	1	0100000	Transcription cofactor
+DBP	2	1001000	Transcription factor,RNA binding protein
+DBX1	1	1000000	Transcription factor
+DBX2	1	1000000	Transcription factor
+DDIT3	1	1000000	Transcription factor
+DDX20	3	1101000	RNA binding protein,Transcription factor,Transcription cofactor
+DDX20	3	1101000	Transcription cofactor,Transcription factor,RNA binding protein
+DDX43	1	0000010	Nuclear enzyme
+DDX5	1	0100000	Transcription cofactor
+DEAF1	1	1000000	Transcription factor
+DEK	3	1101000	Transcription cofactor,Transcription factor,RNA binding protein
+DGCR8	1	0010000	Others
+DHX36	1	0100000	Transcription cofactor
+DIABLO	1	0010000	Others
+DIDO1	1	1000000	Transcription factor
+DIS3	1	0000010	Nuclear enzyme
+DLX1	1	1000000	Transcription factor
+DLX2	1	1000000	Transcription factor
+DLX3	1	1000000	Transcription factor
+DLX4	1	1000000	Transcription factor
+DLX5	1	1000000	Transcription factor
+DLX6	1	1000000	Transcription factor
+DMBX1	1	1000000	Transcription factor
+DMC1	1	0010000	Others
+DMRT1	1	1000000	Transcription factor
+DMRT2	1	1000000	Transcription factor
+DMRT3	1	1000000	Transcription factor
+DMRTA1	1	1000000	Transcription factor
+DMRTA2	1	1000000	Transcription factor
+DMRTC2	1	1000000	Transcription factor
+DNMT1	4	1101100	Chromatin remodeller,RNA binding protein,Transcription factor,Transcription cofactor
+DNMT1	4	1101100	RNA binding protein,Transcription factor,Transcription cofactor,Chromatin remodeller
+DNMT3A	2	1000100	Transcription factor,Chromatin remodeller
+DNMT3B	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+DPF1	2	1100000	Transcription factor,Transcription cofactor
+DPF2	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+DPF2	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+DPRX	1	1000000	Transcription factor
+DRGX	1	1000000	Transcription factor
+DROSHA	2	1001000	RNA binding protein,Transcription factor
+DTL	2	1001000	RNA binding protein,Transcription factor
+DUSP22	1	0000010	Nuclear enzyme
+DUSP26	1	0100000	Transcription cofactor
+DUX4	1	1000000	Transcription factor
+DUXA	1	1000000	Transcription factor
+E2F1	1	1000000	Transcription factor
+E2F2	1	1000000	Transcription factor
+E2F3	1	1000000	Transcription factor
+E2F4	2	1000100	Chromatin remodeller,Transcription factor
+E2F4	2	1000100	Transcription factor,Chromatin remodeller
+E2F5	1	1000000	Transcription factor
+E2F6	1	1000000	Transcription factor
+E2F7	1	1000000	Transcription factor
+E2F8	1	1000000	Transcription factor
+E4F1	1	1000000	Transcription factor
+EBF1	1	1000000	Transcription factor
+EBF3	1	1000000	Transcription factor
+ECSIT	1	0010000	Others
+EDN1	1	0010000	Others
+EED	4	1101001	Transcription factor,Transcription cofactor,Polycomb group (PcG) protein,RNA binding protein
+EEF1AKMT3	1	0010000	Others
+EEF1D	1	0010000	Others
+EGLN2	1	0100000	Transcription cofactor
+EGR1	1	1000000	Transcription factor
+EGR2	1	1000000	Transcription factor
+EGR3	1	1000000	Transcription factor
+EGR4	1	1000000	Transcription factor
+EHF	2	1001000	Transcription factor,RNA binding protein
+EHMT2	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+EIF5A2	1	0010000	Others
+ELF1	1	1000000	Transcription factor
+ELF2	1	1000000	Transcription factor
+ELF3	1	1000000	Transcription factor
+ELF4	1	1000000	Transcription factor
+ELF5	1	1000000	Transcription factor
+ELK1	1	1000000	Transcription factor
+ELK3	1	1000000	Transcription factor
+ELK4	1	1000000	Transcription factor
+ELL2	1	0100000	Transcription cofactor
+ELL	3	1101000	RNA binding protein,Transcription factor,Transcription cofactor
+EMSY	2	1100000	Transcription factor,Transcription cofactor
+EMX1	1	1000000	Transcription factor
+EMX2	1	1000000	Transcription factor
+EN1	1	1000000	Transcription factor
+EN2	1	1000000	Transcription factor
+ENO1	2	1100000	Transcription cofactor,Transcription factor
+EOMES	1	1000000	Transcription factor
+EP300	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+EP400	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+EPAS1	1	1000000	Transcription factor
+ERF	2	1001000	RNA binding protein,Transcription factor
+ERG	2	1001000	RNA binding protein,Transcription factor
+ERG	2	1001000	Transcription factor,RNA binding protein
+ESR1	1	1000000	Transcription factor
+ESR2	1	1000000	Transcription factor
+ESRP1	1	0010000	Others
+ESRP2	1	0010000	Others
+ESRRA	1	1000000	Transcription factor
+ESRRB	1	1000000	Transcription factor
+ESRRG	1	1000000	Transcription factor
+ESX1	1	1000000	Transcription factor
+ETFB	1	0010000	Others
+ETS1	1	1000000	Transcription factor
+ETS2	1	1000000	Transcription factor
+ETV1	1	1000000	Transcription factor
+ETV2	1	1000000	Transcription factor
+ETV3	1	1000000	Transcription factor
+ETV4	1	1000000	Transcription factor
+ETV5	1	1000000	Transcription factor
+ETV6	1	1000000	Transcription factor
+ETV7	1	1000000	Transcription factor
+EVX1	1	1000000	Transcription factor
+EVX2	1	1000000	Transcription factor
+EWSR1	3	1101000	RNA binding protein,Transcription factor,Transcription cofactor
+EWSR1	3	1101000	Transcription cofactor,Transcription factor,RNA binding protein
+EXO5	1	0000010	Nuclear enzyme
+EZH1	5	1101101	Polycomb group (PcG) protein,Transcription factor,Transcription cofactor,Chromatin remodeller,RNA binding protein
+EZH2	5	1101101	Chromatin remodeller,Polycomb group (PcG) protein,Transcription cofactor,Transcription factor,RNA binding protein
+EZH2	5	1101101	Transcription cofactor,Transcription factor,Polycomb group (PcG) protein,RNA binding protein,Chromatin remodeller
+EZR	3	1101000	Transcription factor,Transcription cofactor,RNA binding protein
+FAAP24	1	0010000	Others
+FANCL	1	0000010	Nuclear enzyme
+FERD3L	1	1000000	Transcription factor
+FEV	2	1001000	Transcription factor,RNA binding protein
+FEZ1	1	0010000	Others
+FEZF1	1	1000000	Transcription factor
+FEZF2	1	1000000	Transcription factor
+FGF19	1	0010000	Others
+FHL2	1	0100000	Transcription cofactor
+FIGLA	1	1000000	Transcription factor
+FIP1L1	2	1001000	RNA binding protein,Transcription factor
+FIP1L1	2	1001000	Transcription factor,RNA binding protein
+FLI1	1	1000000	Transcription factor
+FOS	2	1001000	RNA binding protein,Transcription factor
+FOSB	1	1000000	Transcription factor
+FOSL1	1	1000000	Transcription factor
+FOSL2	1	1000000	Transcription factor
+FOXA1	1	1000000	Transcription factor
+FOXA2	1	1000000	Transcription factor
+FOXA3	1	1000000	Transcription factor
+FOXB1	1	1000000	Transcription factor
+FOXB2	1	1000000	Transcription factor
+FOXC1	1	1000000	Transcription factor
+FOXC2	1	1000000	Transcription factor
+FOXD1	1	1000000	Transcription factor
+FOXD2	1	1000000	Transcription factor
+FOXD3	1	1000000	Transcription factor
+FOXE1	1	1000000	Transcription factor
+FOXF1	1	1000000	Transcription factor
+FOXF2	1	1000000	Transcription factor
+FOXG1	1	1000000	Transcription factor
+FOXH1	1	1000000	Transcription factor
+FOXI1	1	1000000	Transcription factor
+FOXI2	1	1000000	Transcription factor
+FOXJ1	1	1000000	Transcription factor
+FOXJ2	1	1000000	Transcription factor
+FOXJ3	1	1000000	Transcription factor
+FOXK1	1	1000000	Transcription factor
+FOXK2	1	1000000	Transcription factor
+FOXL1	1	1000000	Transcription factor
+FOXL2	1	1000000	Transcription factor
+FOXM1	1	1000000	Transcription factor
+FOXN1	1	1000000	Transcription factor
+FOXN2	1	1000000	Transcription factor
+FOXN3	1	1000000	Transcription factor
+FOXO1	1	1000000	Transcription factor
+FOXO3	1	1000000	Transcription factor
+FOXO4	1	1000000	Transcription factor
+FOXO6	1	1000000	Transcription factor
+FOXP1	1	1000000	Transcription factor
+FOXP2	1	1000000	Transcription factor
+FOXP3	1	1000000	Transcription factor
+FOXP4	1	1000000	Transcription factor
+FOXQ1	1	1000000	Transcription factor
+FOXR2	1	1000000	Transcription factor
+FOXS1	1	1000000	Transcription factor
+FUBP1	2	1010000	Transcription factor,Others
+FUS	3	1101000	Transcription cofactor,Transcription factor,RNA binding protein
+GABPA	1	1000000	Transcription factor
+GABPB1	1	1000000	Transcription factor
+GADD45A	1	0010000	Others
+GAR1	1	0010000	Others
+GATA1	1	1000000	Transcription factor
+GATA2	1	1000000	Transcription factor
+GATA3	1	1000000	Transcription factor
+GATA4	1	1000000	Transcription factor
+GATA5	1	1000000	Transcription factor
+GATA6	1	1000000	Transcription factor
+GATAD1	1	1000000	Transcription factor
+GATAD2A	2	1000100	Chromatin remodeller,Transcription factor
+GATAD2B	2	1000100	Chromatin remodeller,Transcription factor
+GATAD2B	2	1000100	Transcription factor,Chromatin remodeller
+GBX1	1	1000000	Transcription factor
+GBX2	1	1000000	Transcription factor
+GCM1	1	1000000	Transcription factor
+GCM2	1	1000000	Transcription factor
+GFI1	1	1000000	Transcription factor
+GFI1B	1	1000000	Transcription factor
+GIT2	1	0000010	Nuclear enzyme
+GLI1	1	1000000	Transcription factor
+GLI2	1	1000000	Transcription factor
+GLI3	1	1000000	Transcription factor
+GLI4	1	1000000	Transcription factor
+GLIS1	1	1000000	Transcription factor
+GLIS2	1	1000000	Transcription factor
+GLIS3	1	1000000	Transcription factor
+GLYCTK	1	0000010	Nuclear enzyme
+GLYR1	2	1000100	Transcription factor,Chromatin remodeller
+GMEB1	1	1000000	Transcription factor
+GMEB2	1	1000000	Transcription factor
+GOT1	1	0000010	Nuclear enzyme
+GPD1	1	0000010	Nuclear enzyme
+GRHL1	1	1000000	Transcription factor
+GRHL2	1	1000000	Transcription factor
+GRHL3	1	1000000	Transcription factor
+GRHPR	1	0100000	Transcription cofactor
+GSC	2	1001000	Transcription factor,RNA binding protein
+GSC2	1	1000000	Transcription factor
+GSPT2	1	0010000	Others
+GSX1	1	1000000	Transcription factor
+GSX2	1	1000000	Transcription factor
+GTF2A1	1	0100000	Transcription cofactor
+GTF2A2	2	1100000	Transcription factor,Transcription cofactor
+GTF2B	2	1100000	Transcription factor,Transcription cofactor
+GTF2E2	1	1000000	Transcription factor
+GTF2F1	3	1101000	Transcription cofactor,Transcription factor,RNA binding protein
+GTF2F1	3	1101000	Transcription factor,Transcription cofactor,RNA binding protein
+GTF2H3	1	0100000	Transcription cofactor
+GTF2I	1	1000000	Transcription factor
+GTF3A	1	1000000	Transcription factor
+GTF3C1	1	1000000	Transcription factor
+GTF3C2	1	1000000	Transcription factor
+GTPBP1	1	0010000	Others
+GTPBP6	1	0010000	Others
+GZF1	1	1000000	Transcription factor
+H1FX	1	0010000	Others
+H2AFY	1	0010000	Others
+H2AFZ	1	0100000	Transcription cofactor
+HAND1	1	1000000	Transcription factor
+HAND2	1	1000000	Transcription factor
+HBP1	2	1001000	RNA binding protein,Transcription factor
+HCFC1	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+HCFC1	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+HCFC2	2	0100100	Chromatin remodeller,Transcription cofactor
+HCLS1	1	0100000	Transcription cofactor
+HDAC1	4	1101100	Chromatin remodeller,Transcription cofactor,Transcription factor,RNA binding protein
+HDAC1	4	1101100	Transcription cofactor,Transcription factor,RNA binding protein,Chromatin remodeller
+HDAC2	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+HDAC3	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+HDAC6	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+HDAC6	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+HDAC8	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+HDAC8	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+HDGF	4	1101100	Chromatin remodeller,RNA binding protein,Transcription cofactor,Transcription factor
+HDGF	4	1101100	Chromatin remodeller,Transcription cofactor,RNA binding protein,Transcription factor
+HDX	2	1001000	Transcription factor,RNA binding protein
+HENMT1	1	0010000	Others
+HERPUD1	1	0010000	Others
+HES1	1	1000000	Transcription factor
+HES2	1	1000000	Transcription factor
+HES4	1	1000000	Transcription factor
+HES5	1	1000000	Transcription factor
+HES6	1	1000000	Transcription factor
+HES7	1	1000000	Transcription factor
+HESX1	1	1000000	Transcription factor
+HEXIM1	1	0100000	Transcription cofactor
+HEY1	1	1000000	Transcription factor
+HEY2	1	1000000	Transcription factor
+HEYL	1	1000000	Transcription factor
+HHAT	1	0000010	Nuclear enzyme
+HHEX	1	1000000	Transcription factor
+HIC1	1	1000000	Transcription factor
+HIC2	1	1000000	Transcription factor
+HIF1A	1	1000000	Transcription factor
+HIF3A	1	1000000	Transcription factor
+HINFP	1	1000000	Transcription factor
+HIRIP3	1	0010000	Others
+HIST1H2BN	1	0010000	Others
+HIST2H2AB	1	0010000	Others
+HIST2H2BE	1	0010000	Others
+HIVEP1	1	1000000	Transcription factor
+HIVEP2	1	1000000	Transcription factor
+HIVEP3	1	1000000	Transcription factor
+HLF	2	1001000	RNA binding protein,Transcription factor
+HLTF	3	1101000	RNA binding protein,Transcription cofactor,Transcription factor
+HLTF	3	1101000	Transcription cofactor,RNA binding protein,Transcription factor
+HLX	2	1001000	RNA binding protein,Transcription factor
+HMBOX1	1	1000000	Transcription factor
+HMG20B	1	1000000	Transcription factor
+HMGA1	1	1000000	Transcription factor
+HMGA2	1	1000000	Transcription factor
+HMGN3	1	1000000	Transcription factor
+HMX1	1	1000000	Transcription factor
+HMX2	1	1000000	Transcription factor
+HMX3	1	1000000	Transcription factor
+HNF1A	1	1000000	Transcription factor
+HNF1B	1	1000000	Transcription factor
+HNF4A	1	1000000	Transcription factor
+HNF4G	1	1000000	Transcription factor
+HNRNPA0	1	0001000	RNA binding protein
+HNRNPA1	1	0001000	RNA binding protein
+HNRNPC	2	0101000	RNA binding protein,Transcription cofactor
+HNRNPH1	2	1001000	Transcription factor,RNA binding protein
+HNRNPH3	1	0010000	Others
+HNRNPK	3	1101000	RNA binding protein,Transcription factor,Transcription cofactor
+HNRNPL	2	1001000	Transcription factor,RNA binding protein
+HNRNPLL	2	1001000	RNA binding protein,Transcription factor
+HNRNPLL	2	1001000	Transcription factor,RNA binding protein
+HNRNPUL1	2	1001000	RNA binding protein,Transcription factor
+HOMEZ	1	1000000	Transcription factor
+HOXA10	1	1000000	Transcription factor
+HOXA1	1	1000000	Transcription factor
+HOXA11	1	1000000	Transcription factor
+HOXA13	1	1000000	Transcription factor
+HOXA2	1	1000000	Transcription factor
+HOXA3	1	1000000	Transcription factor
+HOXA4	1	1000000	Transcription factor
+HOXA5	1	1000000	Transcription factor
+HOXA6	1	1000000	Transcription factor
+HOXA7	1	1000000	Transcription factor
+HOXA9	1	1000000	Transcription factor
+HOXB1	1	1000000	Transcription factor
+HOXB13	1	1000000	Transcription factor
+HOXB2	1	1000000	Transcription factor
+HOXB3	1	1000000	Transcription factor
+HOXB4	1	1000000	Transcription factor
+HOXB5	1	1000000	Transcription factor
+HOXB6	1	1000000	Transcription factor
+HOXB7	1	1000000	Transcription factor
+HOXB8	1	1000000	Transcription factor
+HOXB9	1	1000000	Transcription factor
+HOXC10	1	1000000	Transcription factor
+HOXC11	1	1000000	Transcription factor
+HOXC12	1	1000000	Transcription factor
+HOXC13	1	1000000	Transcription factor
+HOXC4	1	1000000	Transcription factor
+HOXC5	1	1000000	Transcription factor
+HOXC6	1	1000000	Transcription factor
+HOXC8	1	1000000	Transcription factor
+HOXC9	1	1000000	Transcription factor
+HOXD10	1	1000000	Transcription factor
+HOXD1	1	1000000	Transcription factor
+HOXD11	1	1000000	Transcription factor
+HOXD12	1	1000000	Transcription factor
+HOXD13	1	1000000	Transcription factor
+HOXD3	1	1000000	Transcription factor
+HOXD4	1	1000000	Transcription factor
+HOXD8	1	1000000	Transcription factor
+HOXD9	1	1000000	Transcription factor
+HP1BP3	1	0010000	Others
+HSF1	1	1000000	Transcription factor
+HSF2	1	1000000	Transcription factor
+HSF4	1	1000000	Transcription factor
+HSF5	1	1000000	Transcription factor
+HSFY1	1	1000000	Transcription factor
+HSFY2	1	1000000	Transcription factor
+HSPA1L	1	0010000	Others
+HSPA5	1	0010000	Others
+HTATIP2	1	0100000	Transcription cofactor
+ICE1	1	0100000	Transcription cofactor
+ICE2	1	0100000	Transcription cofactor
+ID1	2	1000100	Transcription factor,Chromatin remodeller
+ID2	1	1000000	Transcription factor
+ID3	1	1000000	Transcription factor
+ID4	1	1000000	Transcription factor
+IKZF1	2	1000100	Chromatin remodeller,Transcription factor
+IKZF2	1	1000000	Transcription factor
+IKZF3	1	1000000	Transcription factor
+IKZF5	1	1000000	Transcription factor
+IL24	1	0010000	Others
+ILF3	2	1001000	RNA binding protein,Transcription factor
+ILK	3	1101000	RNA binding protein,Transcription factor,Transcription cofactor
+ILK	3	1101000	Transcription factor,Transcription cofactor,RNA binding protein
+ING3	2	0100100	Transcription cofactor,Chromatin remodeller
+INSM1	1	1000000	Transcription factor
+IRF1	1	1000000	Transcription factor
+IRF2	1	1000000	Transcription factor
+IRF3	1	1000000	Transcription factor
+IRF4	1	1000000	Transcription factor
+IRF5	1	1000000	Transcription factor
+IRF6	1	1000000	Transcription factor
+IRF7	1	1000000	Transcription factor
+IRF8	1	1000000	Transcription factor
+IRF9	1	1000000	Transcription factor
+IRX2	1	1000000	Transcription factor
+IRX3	1	1000000	Transcription factor
+IRX4	1	1000000	Transcription factor
+IRX5	1	1000000	Transcription factor
+IRX6	1	1000000	Transcription factor
+ISL1	1	1000000	Transcription factor
+ISL2	1	1000000	Transcription factor
+ISX	2	1001000	Transcription factor,RNA binding protein
+ITGB2	1	0010000	Others
+IVD	2	1001000	Transcription factor,RNA binding protein
+JARID2	2	1000100	Transcription factor,Chromatin remodeller
+JDP2	1	1000000	Transcription factor
+JMJD1C	2	0100100	Transcription cofactor,Chromatin remodeller
+JMJD6	2	0100100	Transcription cofactor,Chromatin remodeller
+JUN	2	1001000	RNA binding protein,Transcription factor
+JUNB	1	1000000	Transcription factor
+JUND	1	1000000	Transcription factor
+KAT2B	4	1101100	Transcription cofactor,RNA binding protein,Transcription factor,Chromatin remodeller
+KAT2B	4	1101100	Transcription factor,Transcription cofactor,RNA binding protein,Chromatin remodeller
+KAT5	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+KAT7	2	1000100	Chromatin remodeller,Transcription factor
+KAT8	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+KCNIP1	1	0010000	Others
+KDM1A	4	1101100	Chromatin remodeller,Transcription factor,RNA binding protein,Transcription cofactor
+KDM1A	4	1101100	RNA binding protein,Chromatin remodeller,Transcription cofactor,Transcription factor
+KDM2B	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+KDM2B	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+KDM4A	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+KDM4B	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+KDM4B	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+KDM4C	2	0100100	Chromatin remodeller,Transcription cofactor
+KDM5A	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+KDM5B	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+KDM5C	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+KDM5D	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+KDM6B	2	0100100	Transcription cofactor,Chromatin remodeller
+KHSRP	2	1001000	Transcription factor,RNA binding protein
+KLF10	1	1000000	Transcription factor
+KLF1	1	1000000	Transcription factor
+KLF11	1	1000000	Transcription factor
+KLF12	1	1000000	Transcription factor
+KLF13	1	1000000	Transcription factor
+KLF14	1	1000000	Transcription factor
+KLF15	1	1000000	Transcription factor
+KLF16	1	1000000	Transcription factor
+KLF17	1	1000000	Transcription factor
+KLF2	1	1000000	Transcription factor
+KLF3	1	1000000	Transcription factor
+KLF4	1	1000000	Transcription factor
+KLF5	1	1000000	Transcription factor
+KLF6	1	1000000	Transcription factor
+KLF7	1	1000000	Transcription factor
+KLF8	1	1000000	Transcription factor
+KLF9	1	1000000	Transcription factor
+KMT2A	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+KMT2B	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+L3MBTL2	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+LARP1	1	0010000	Others
+LARP4	1	0001000	RNA binding protein
+LARP7	1	0001000	RNA binding protein
+LAS1L	1	0010000	Others
+LBX1	1	1000000	Transcription factor
+LBX2	1	1000000	Transcription factor
+LCOR	1	1000000	Transcription factor
+LDB1	2	1100000	Transcription cofactor,Transcription factor
+LEF1	1	1000000	Transcription factor
+LHX1	1	1000000	Transcription factor
+LHX2	1	1000000	Transcription factor
+LHX3	1	1000000	Transcription factor
+LHX4	1	1000000	Transcription factor
+LHX5	1	1000000	Transcription factor
+LHX6	1	1000000	Transcription factor
+LHX8	1	1000000	Transcription factor
+LHX9	1	1000000	Transcription factor
+LIN28B	2	1001000	RNA binding protein,Transcription factor
+LIN54	2	1100000	Transcription factor,Transcription cofactor
+LINC00471	1	0010000	Others
+LMO2	1	0100000	Transcription cofactor
+LMX1A	1	1000000	Transcription factor
+LMX1B	1	1000000	Transcription factor
+LOC100379224	1	0010000	Others
+LRRFIP1	1	1000000	Transcription factor
+LRWD1	1	0010000	Others
+LSM6	1	0010000	Others
+LUZP1	1	0010000	Others
+LUZP2	1	0010000	Others
+LYL1	1	1000000	Transcription factor
+MAF	2	1001000	Transcription factor,RNA binding protein
+MAFA	1	1000000	Transcription factor
+MAFB	1	1000000	Transcription factor
+MAFF	1	1000000	Transcription factor
+MAFG	1	1000000	Transcription factor
+MAFK	1	1000000	Transcription factor
+MAGEA8	1	0010000	Others
+MAGED4	1	0010000	Others
+MAGEF1	1	0010000	Others
+MAGOH	1	0001000	RNA binding protein
+MAML2	1	0100000	Transcription cofactor
+MAML3	1	0100000	Transcription cofactor
+MAP4K2	1	0000010	Nuclear enzyme
+MAX	2	1001000	Transcription factor,RNA binding protein
+MAZ	2	1001000	RNA binding protein,Transcription factor
+MBD2	2	1000100	Chromatin remodeller,Transcription factor
+MBD2	2	1000100	Transcription factor,Chromatin remodeller
+MBD3	2	1000100	Transcription factor,Chromatin remodeller
+MBD4	2	1000100	Transcription factor,Chromatin remodeller
+MBNL2	1	1000000	Transcription factor
+MBTPS2	1	0000010	Nuclear enzyme
+MCM2	1	1000000	Transcription factor
+MCM3	1	1000000	Transcription factor
+MCM5	1	1000000	Transcription factor
+MCM7	1	1000000	Transcription factor
+MDM2	1	0100000	Transcription cofactor
+MECOM	1	1000000	Transcription factor
+MECP2	2	1000100	Chromatin remodeller,Transcription factor
+MED1	2	1100000	Transcription cofactor,Transcription factor
+MED1	2	1100000	Transcription factor,Transcription cofactor
+MED26	1	0100000	Transcription cofactor
+MED30	1	0100000	Transcription cofactor
+MEF2A	1	1000000	Transcription factor
+MEF2B	1	1000000	Transcription factor
+MEF2C	1	1000000	Transcription factor
+MEF2D	1	1000000	Transcription factor
+MEIS1	1	1000000	Transcription factor
+MEIS2	1	1000000	Transcription factor
+MEIS3	1	1000000	Transcription factor
+MEOX1	1	1000000	Transcription factor
+MEOX2	1	1000000	Transcription factor
+MESP1	1	1000000	Transcription factor
+MESP2	1	1000000	Transcription factor
+MEX3C	1	0001000	RNA binding protein
+MGA	3	1001100	RNA binding protein,Chromatin remodeller,Transcription factor
+MGA	3	1001100	RNA binding protein,Transcription factor,Chromatin remodeller
+MIEF1	1	0010000	Others
+MIER1	1	1000000	Transcription factor
+MITF	1	1000000	Transcription factor
+MIXL1	1	1000000	Transcription factor
+MLLT1	2	1100000	Transcription cofactor,Transcription factor
+MLLT1	2	1100000	Transcription factor,Transcription cofactor
+MLX	2	1001000	Transcription factor,RNA binding protein
+MLXIP	1	1000000	Transcription factor
+MLXIPL	1	1000000	Transcription factor
+MNT	2	1001000	RNA binding protein,Transcription factor
+MNT	2	1001000	Transcription factor,RNA binding protein
+MNX1	1	1000000	Transcription factor
+MORN1	1	0010000	Others
+MRPL1	1	0010000	Others
+MRPL2	1	0010000	Others
+MRPS25	1	0010000	Others
+MSC	2	1001000	Transcription factor,RNA binding protein
+MSGN1	1	1000000	Transcription factor
+MSI1	1	0001000	RNA binding protein
+MSI2	1	0001000	RNA binding protein
+MSRB3	1	0000010	Nuclear enzyme
+MSX1	1	1000000	Transcription factor
+MSX2	1	1000000	Transcription factor
+MTA1	2	1100000	Transcription factor,Transcription cofactor
+MTA2	2	1000100	Transcription factor,Chromatin remodeller
+MTA3	2	1100000	Transcription cofactor,Transcription factor
+MTA3	2	1100000	Transcription factor,Transcription cofactor
+MTF1	1	1000000	Transcription factor
+MTF2	3	1100001	Transcription cofactor,Transcription factor,Polycomb group (PcG) protein
+MTHFD1	1	0000010	Nuclear enzyme
+MXD1	1	1000000	Transcription factor
+MXD3	1	1000000	Transcription factor
+MXD4	1	1000000	Transcription factor
+MXI1	1	1000000	Transcription factor
+MYB	2	1001000	RNA binding protein,Transcription factor
+MYBL1	1	1000000	Transcription factor
+MYBL2	1	1000000	Transcription factor
+MYC	2	1001000	RNA binding protein,Transcription factor
+MYCL	1	1000000	Transcription factor
+MYCLP1	2	1010000	Others,Transcription factor
+MYCN	1	1000000	Transcription factor
+MYEF2	1	1000000	Transcription factor
+MYF6	1	1000000	Transcription factor
+MYLK	1	0000010	Nuclear enzyme
+MYNN	1	1000000	Transcription factor
+MYOD1	1	1000000	Transcription factor
+MYOG	1	1000000	Transcription factor
+MYPOP	1	1000000	Transcription factor
+MYRF	1	1000000	Transcription factor
+MZF1	1	1000000	Transcription factor
+NAIF1	1	1000000	Transcription factor
+NANOG	1	1000000	Transcription factor
+NANOS1	1	0010000	Others
+NAP1L1	1	0010000	Others
+NBN	2	1001000	RNA binding protein,Transcription factor
+NBN	2	1001000	Transcription factor,RNA binding protein
+NCALD	1	0010000	Others
+NCBP2	1	0001000	RNA binding protein
+NCOA1	2	1000100	Chromatin remodeller,Transcription factor
+NCOA1	2	1000100	Transcription factor,Chromatin remodeller
+NCOA2	2	1100000	Transcription factor,Transcription cofactor
+NCOA3	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+NCOA4	2	1100000	Transcription factor,Transcription cofactor
+NCOA6	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+NCOR1	2	1000100	Chromatin remodeller,Transcription factor
+NCOR2	1	1000000	Transcription factor
+NELFA	1	0100000	Transcription cofactor
+NELFB	1	0100000	Transcription cofactor
+NELFE	3	1101000	Transcription factor,RNA binding protein,Transcription cofactor
+NEUROD1	1	1000000	Transcription factor
+NEUROD2	1	1000000	Transcription factor
+NEUROG1	1	1000000	Transcription factor
+NEUROG2	1	1000000	Transcription factor
+NEUROG3	1	1000000	Transcription factor
+NF1	2	1001000	Transcription factor,RNA binding protein
+NFAT5	1	1000000	Transcription factor
+NFATC1	1	1000000	Transcription factor
+NFATC2	1	1000000	Transcription factor
+NFATC3	1	1000000	Transcription factor
+NFATC4	1	1000000	Transcription factor
+NFE2	1	1000000	Transcription factor
+NFE2L1	1	1000000	Transcription factor
+NFE2L2	1	1000000	Transcription factor
+NFE2L3	1	1000000	Transcription factor
+NFIA	1	1000000	Transcription factor
+NFIB	1	1000000	Transcription factor
+NFIC	1	1000000	Transcription factor
+NFIL3	1	1000000	Transcription factor
+NFIX	1	1000000	Transcription factor
+NFKB1	1	1000000	Transcription factor
+NFKB2	1	1000000	Transcription factor
+NFKBIA	2	1100000	Transcription cofactor,Transcription factor
+NFRKB	1	1000000	Transcription factor
+NFXL1	1	1000000	Transcription factor
+NFYA	1	1000000	Transcription factor
+NFYB	1	1000000	Transcription factor
+NFYC	1	1000000	Transcription factor
+NHLH1	1	1000000	Transcription factor
+NHLH2	1	1000000	Transcription factor
+NIPBL	2	0100100	Chromatin remodeller,Transcription cofactor
+NKRF	2	1001000	RNA binding protein,Transcription factor
+NKX1-1	1	1000000	Transcription factor
+NKX1-2	1	1000000	Transcription factor
+NKX2-1	1	1000000	Transcription factor
+NKX2-2	1	1000000	Transcription factor
+NKX2-3	1	1000000	Transcription factor
+NKX2-4	1	1000000	Transcription factor
+NKX2-5	1	1000000	Transcription factor
+NKX2-6	1	1000000	Transcription factor
+NKX2-8	1	1000000	Transcription factor
+NKX3-1	1	1000000	Transcription factor
+NKX3-2	1	1000000	Transcription factor
+NKX6-1	1	1000000	Transcription factor
+NKX6-2	1	1000000	Transcription factor
+NKX6-3	1	1000000	Transcription factor
+NME1	1	0000010	Nuclear enzyme
+NME2	1	1000000	Transcription factor
+NMI	3	1101000	RNA binding protein,Transcription factor,Transcription cofactor
+NMRAL1	1	0010000	Others
+NNT	2	1001000	Transcription factor,RNA binding protein
+NOBOX	1	1000000	Transcription factor
+NOC2L	1	0100000	Transcription cofactor
+NONO	3	1101000	Transcription cofactor,RNA binding protein,Transcription factor
+NONO	3	1101000	Transcription cofactor,Transcription factor,RNA binding protein
+NOTCH1	1	0100000	Transcription cofactor
+NOTO	1	1000000	Transcription factor
+NPAS2	1	1000000	Transcription factor
+NPAS4	1	1000000	Transcription factor
+NR0B1	1	1000000	Transcription factor
+NR1D1	1	1000000	Transcription factor
+NR1D2	1	1000000	Transcription factor
+NR1H2	1	1000000	Transcription factor
+NR1H3	1	1000000	Transcription factor
+NR1H4	1	1000000	Transcription factor
+NR1I2	1	1000000	Transcription factor
+NR1I3	1	1000000	Transcription factor
+NR2C1	1	1000000	Transcription factor
+NR2C2	1	1000000	Transcription factor
+NR2E1	1	1000000	Transcription factor
+NR2E3	1	1000000	Transcription factor
+NR2F1	1	1000000	Transcription factor
+NR2F2	1	1000000	Transcription factor
+NR2F6	1	1000000	Transcription factor
+NR3C1	1	1000000	Transcription factor
+NR3C2	1	1000000	Transcription factor
+NR4A1	1	1000000	Transcription factor
+NR4A2	1	1000000	Transcription factor
+NR4A3	1	1000000	Transcription factor
+NR5A1	1	1000000	Transcription factor
+NR5A2	1	1000000	Transcription factor
+NR6A1	1	1000000	Transcription factor
+NRF1	1	1000000	Transcription factor
+NRIP1	1	0100000	Transcription cofactor
+NRL	2	1001000	Transcription factor,RNA binding protein
+NSD2	2	1000100	Chromatin remodeller,Transcription factor
+NUCB1	1	0010000	Others
+NUFIP1	1	1000000	Transcription factor
+NUP107	1	0010000	Others
+NUP133	1	0010000	Others
+NXPH3	1	0010000	Others
+OCA2	1	0010000	Others
+ODC1	1	0000010	Nuclear enzyme
+OLIG1	1	1000000	Transcription factor
+OLIG2	1	1000000	Transcription factor
+OLIG3	1	1000000	Transcription factor
+ONECUT1	1	1000000	Transcription factor
+ONECUT2	1	1000000	Transcription factor
+ONECUT3	1	1000000	Transcription factor
+ORC2	2	1100000	Transcription cofactor,Transcription factor
+OSR1	1	1000000	Transcription factor
+OSR2	1	1000000	Transcription factor
+OTP	2	1001000	RNA binding protein,Transcription factor
+OTUD4	1	0010000	Others
+OTX1	1	1000000	Transcription factor
+OTX2	1	1000000	Transcription factor
+OVOL1	1	1000000	Transcription factor
+OVOL2	1	1000000	Transcription factor
+P4HB	1	0000010	Nuclear enzyme
+PALB2	1	0010000	Others
+PATZ1	1	1000000	Transcription factor
+PAX1	1	1000000	Transcription factor
+PAX2	1	1000000	Transcription factor
+PAX3	1	1000000	Transcription factor
+PAX4	1	1000000	Transcription factor
+PAX5	1	1000000	Transcription factor
+PAX6	1	1000000	Transcription factor
+PAX7	1	1000000	Transcription factor
+PAX8	1	1000000	Transcription factor
+PAX9	1	1000000	Transcription factor
+PAXIP1	1	0100000	Transcription cofactor
+PBX1	1	1000000	Transcription factor
+PBX2	1	1000000	Transcription factor
+PBX3	1	1000000	Transcription factor
+PBX4	1	1000000	Transcription factor
+PCBP1	2	1001000	RNA binding protein,Transcription factor
+PCBP2	2	1001000	Transcription factor,RNA binding protein
+PCGF1	2	0100001	Polycomb group (PcG) protein,Transcription cofactor
+PCGF2	3	1100001	Polycomb group (PcG) protein,Transcription cofactor,Transcription factor
+PCGF2	3	1100001	Transcription cofactor,Transcription factor,Polycomb group (PcG) protein
+PCK2	1	0000010	Nuclear enzyme
+PDCD11	1	0010000	Others
+PDE6H	1	0000010	Nuclear enzyme
+PDLIM5	1	0010000	Others
+PDS5A	1	0010000	Others
+PDX1	1	1000000	Transcription factor
+PGAM2	1	0000010	Nuclear enzyme
+PGR	2	1001000	Transcription factor,RNA binding protein
+PHB2	1	1000000	Transcription factor
+PHF1	3	1100001	Polycomb group (PcG) protein,Transcription cofactor,Transcription factor
+PHF20	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+PHF21A	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+PHF8	4	1101100	RNA binding protein,Transcription factor,Transcription cofactor,Chromatin remodeller
+PHF8	4	1101100	Transcription cofactor,Transcription factor,RNA binding protein,Chromatin remodeller
+PHLDA2	1	0010000	Others
+PHOX2A	1	1000000	Transcription factor
+PHOX2B	1	1000000	Transcription factor
+PHTF1	1	1000000	Transcription factor
+PIAS1	1	1000000	Transcription factor
+PICK1	1	0010000	Others
+PIK3C3	1	0000010	Nuclear enzyme
+PIR	2	1100000	Transcription factor,Transcription cofactor
+PITX1	1	1000000	Transcription factor
+PITX2	1	1000000	Transcription factor
+PITX3	1	1000000	Transcription factor
+PKM	2	1001000	RNA binding protein,Transcription factor
+PKNOX1	1	1000000	Transcription factor
+PKNOX2	1	1000000	Transcription factor
+PLAG1	1	1000000	Transcription factor
+PLAGL1	1	1000000	Transcription factor
+PLG	2	1001000	Transcription factor,RNA binding protein
+PML	3	1101000	Transcription cofactor,Transcription factor,RNA binding protein
+PML	3	1101000	Transcription factor,Transcription cofactor,RNA binding protein
+POLE3	1	0000100	Chromatin remodeller
+POLI	1	1000000	Transcription factor
+POLR2A	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+POLR2B	2	1001000	Transcription factor,RNA binding protein
+POLR2G	2	1001000	RNA binding protein,Transcription factor
+POLR2H	1	1000000	Transcription factor
+POLR3A	1	1000000	Transcription factor
+POLR3G	1	1000000	Transcription factor
+POU1F1	1	1000000	Transcription factor
+POU2F1	1	1000000	Transcription factor
+POU2F2	1	1000000	Transcription factor
+POU2F3	1	1000000	Transcription factor
+POU3F1	1	1000000	Transcription factor
+POU3F2	1	1000000	Transcription factor
+POU3F3	1	1000000	Transcription factor
+POU3F4	1	1000000	Transcription factor
+POU4F1	1	1000000	Transcription factor
+POU4F2	1	1000000	Transcription factor
+POU4F3	1	1000000	Transcription factor
+POU5F1	2	1001000	RNA binding protein,Transcription factor
+POU5F1	2	1001000	Transcription factor,RNA binding protein
+POU5F1B	1	1000000	Transcription factor
+POU6F1	1	1000000	Transcription factor
+POU6F2	1	1000000	Transcription factor
+PPARA	1	1000000	Transcription factor
+PPARD	1	1000000	Transcription factor
+PPARG	2	1001000	RNA binding protein,Transcription factor
+PPARGC1A	3	1101000	Transcription cofactor,Transcription factor,RNA binding protein
+PPP1R10	1	0001000	RNA binding protein
+PPP2R3B	1	0000010	Nuclear enzyme
+PQBP1	1	0100000	Transcription cofactor
+PRAME	1	0100000	Transcription cofactor
+PRDM10	1	1000000	Transcription factor
+PRDM1	2	1000100	Chromatin remodeller,Transcription factor
+PRDM14	2	1000100	Chromatin remodeller,Transcription factor
+PRDM16	2	1000100	Chromatin remodeller,Transcription factor
+PRDM4	2	1000100	Transcription factor,Chromatin remodeller
+PRDM6	2	1000100	Transcription factor,Chromatin remodeller
+PRDX5	1	0100000	Transcription cofactor
+PRKCQ	1	0000010	Nuclear enzyme
+PRKDC	2	0100010	Nuclear enzyme,Transcription cofactor
+PRNP	1	0100000	Transcription cofactor
+PROP1	1	1000000	Transcription factor
+PROX1	1	1000000	Transcription factor
+PRPF4	2	1001000	Transcription factor,RNA binding protein
+PRRX1	1	1000000	Transcription factor
+PRRX2	1	1000000	Transcription factor
+PSMA6	2	0110000	Transcription cofactor,Others
+PSMC2	1	0000010	Nuclear enzyme
+PTBP1	2	1001000	RNA binding protein,Transcription factor
+PTCD1	1	0010000	Others
+PTEN	1	0100000	Transcription cofactor
+PTF1A	1	1000000	Transcription factor
+PTTG1	2	1100000	Transcription cofactor,Transcription factor
+PTTG1	2	1100000	Transcription factor,Transcription cofactor
+PURA	1	1000000	Transcription factor
+PURG	1	1000000	Transcription factor
+PYGO2	2	1100000	Transcription cofactor,Transcription factor
+PYGO2	2	1100000	Transcription factor,Transcription cofactor
+QRSL1	1	0010000	Others
+R3HDM2	1	0010000	Others
+RAB14	1	0010000	Others
+RAB18	1	0010000	Others
+RAB2A	1	0010000	Others
+RAB40B	1	0010000	Others
+RAB7A	1	0010000	Others
+RAC3	1	1000000	Transcription factor
+RAD21	2	1100000	Transcription cofactor,Transcription factor
+RAD51	1	1000000	Transcription factor
+RAN	3	1101000	RNA binding protein,Transcription factor,Transcription cofactor
+RARA	1	1000000	Transcription factor
+RARB	1	1000000	Transcription factor
+RARG	1	1000000	Transcription factor
+RAX	2	1001000	RNA binding protein,Transcription factor
+RAX2	1	1000000	Transcription factor
+RB1	3	1101000	RNA binding protein,Transcription factor,Transcription cofactor
+RB1	3	1101000	Transcription cofactor,Transcription factor,RNA binding protein
+RBAK	1	1000000	Transcription factor
+RBBP5	4	1101100	Transcription cofactor,Transcription factor,Chromatin remodeller,RNA binding protein
+RBBP5	4	1101100	Transcription factor,RNA binding protein,Transcription cofactor,Chromatin remodeller
+RBBP9	1	0010000	Others
+RBFOX2	3	1101000	RNA binding protein,Transcription factor,Transcription cofactor
+RBFOX2	3	1101000	Transcription cofactor,Transcription factor,RNA binding protein
+RBFOX3	1	0001000	RNA binding protein
+RBM14	3	1101000	RNA binding protein,Transcription factor,Transcription cofactor
+RBM15	3	1101000	Transcription factor,RNA binding protein,Transcription cofactor
+RBM17	2	1001000	RNA binding protein,Transcription factor
+RBM22	2	1001000	RNA binding protein,Transcription factor
+RBM22	2	1001000	Transcription factor,RNA binding protein
+RBM25	2	1001000	RNA binding protein,Transcription factor
+RBM3	2	1001000	Transcription factor,RNA binding protein
+RBM34	2	1001000	Transcription factor,RNA binding protein
+RBM39	3	1101000	Transcription factor,RNA binding protein,Transcription cofactor
+RBM8A	1	0001000	RNA binding protein
+RBMS1	1	0010000	Others
+RBP2	1	0010000	Others
+RBPJ	1	1000000	Transcription factor
+RCOR1	1	1000000	Transcription factor
+REL	2	1001000	Transcription factor,RNA binding protein
+RELA	2	1001000	RNA binding protein,Transcription factor
+RELA	2	1001000	Transcription factor,RNA binding protein
+RELB	1	1000000	Transcription factor
+REST	2	1000100	Chromatin remodeller,Transcription factor
+RFC2	1	0010000	Others
+RFC3	1	0010000	Others
+RFX1	1	1000000	Transcription factor
+RFX2	1	1000000	Transcription factor
+RFX3	1	1000000	Transcription factor
+RFX4	1	1000000	Transcription factor
+RFX5	1	1000000	Transcription factor
+RFX6	1	1000000	Transcription factor
+RFX7	1	1000000	Transcription factor
+RFX8	1	1000000	Transcription factor
+RFXANK	1	1000000	Transcription factor
+RHOXF1	1	1000000	Transcription factor
+RHOXF2	1	1000000	Transcription factor
+RIOK2	1	0010000	Others
+RLF	2	1001000	RNA binding protein,Transcription factor
+RLF	2	1001000	Transcription factor,RNA binding protein
+RNASEH2C	1	0010000	Others
+RNF114	1	0010000	Others
+RNF2	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+RNF2	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+RORA	1	1000000	Transcription factor
+RORB	1	1000000	Transcription factor
+RORC	1	1000000	Transcription factor
+RPL6	1	0010000	Others
+RPP25	1	0010000	Others
+RPS10	1	0001000	RNA binding protein
+RPS4X	1	0010000	Others
+RPS6KA5	2	0100010	Transcription cofactor,Nuclear enzyme
+RREB1	1	1000000	Transcription factor
+RTL8A	1	0010000	Others
+RUFY3	1	0010000	Others
+RUNX1	1	1000000	Transcription factor
+RUNX1T1	2	1100000	Transcription factor,Transcription cofactor
+RUNX2	1	1000000	Transcription factor
+RUNX3	1	1000000	Transcription factor
+RUVBL1	2	0100100	Chromatin remodeller,Transcription cofactor
+RXRA	1	1000000	Transcription factor
+RXRB	1	1000000	Transcription factor
+RXRG	1	1000000	Transcription factor
+RYBP	1	0100000	Transcription cofactor
+SAFB2	3	1101000	Transcription factor,RNA binding protein,Transcription cofactor
+SAFB	3	1101000	Transcription factor,RNA binding protein,Transcription cofactor
+SALL4	1	1000000	Transcription factor
+SAP30	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+SAP30	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+SATB1	1	1000000	Transcription factor
+SCAND2P	1	0010000	Others
+SCMH1	3	1100001	Polycomb group (PcG) protein,Transcription factor,Transcription cofactor
+SCML2	1	0000001	Polycomb group (PcG) protein
+SCRT1	1	1000000	Transcription factor
+SCRT2	1	1000000	Transcription factor
+SCX	2	1001000	Transcription factor,RNA binding protein
+SEMA4A	1	0010000	Others
+SETDB1	2	1000100	Chromatin remodeller,Transcription factor
+SETDB1	2	1000100	Transcription factor,Chromatin remodeller
+SF1	3	1101000	RNA binding protein,Transcription cofactor,Transcription factor
+SF3B1	2	1001000	RNA binding protein,Transcription factor
+SFMBT1	2	0100001	Polycomb group (PcG) protein,Transcription cofactor
+SFPQ	2	1001000	RNA binding protein,Transcription factor
+SFT2D1	1	0010000	Others
+SHOX	1	1000000	Transcription factor
+SHOX2	1	1000000	Transcription factor
+SIN3A	2	1100000	Transcription factor,Transcription cofactor
+SIN3B	2	1100000	Transcription factor,Transcription cofactor
+SIRT1	2	0100100	Transcription cofactor,Chromatin remodeller
+SIRT6	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+SIRT6	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+SIX1	1	1000000	Transcription factor
+SIX2	1	1000000	Transcription factor
+SIX3	1	1000000	Transcription factor
+SIX4	1	1000000	Transcription factor
+SIX5	1	1000000	Transcription factor
+SIX6	1	1000000	Transcription factor
+SKIL	2	1100000	Transcription cofactor,Transcription factor
+SKOR1	2	1100000	Transcription cofactor,Transcription factor
+SKOR2	2	1100000	Transcription factor,Transcription cofactor
+SLC18A1	1	0010000	Others
+SLC20A1	1	0010000	Others
+SMAD1	1	1000000	Transcription factor
+SMAD2	1	1000000	Transcription factor
+SMAD3	1	1000000	Transcription factor
+SMAD4	1	1000000	Transcription factor
+SMAD5	1	1000000	Transcription factor
+SMAP2	1	0010000	Others
+SMARCA1	2	1000100	Transcription factor,Chromatin remodeller
+SMARCA4	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+SMARCA4	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+SMARCA5	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+SMARCA5	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+SMARCB1	3	1100100	Chromatin remodeller,Transcription cofactor,Transcription factor
+SMARCB1	3	1100100	Chromatin remodeller,Transcription factor,Transcription cofactor
+SMARCC1	2	1100000	Transcription cofactor,Transcription factor
+SMARCC2	2	1100000	Transcription cofactor,Transcription factor
+SMARCC2	2	1100000	Transcription factor,Transcription cofactor
+SMARCE1	2	1100000	Transcription cofactor,Transcription factor
+SMC1A	1	0010000	Others
+SMC3	1	1000000	Transcription factor
+SMC4	1	0010000	Others
+SMPX	1	0010000	Others
+SMUG1	1	0000010	Nuclear enzyme
+SNAI1	1	1000000	Transcription factor
+SNAI2	1	1000000	Transcription factor
+SNAI3	1	1000000	Transcription factor
+SNAPC1	1	0010000	Others
+SNAPC4	1	1000000	Transcription factor
+SNAPC5	2	1100000	Transcription cofactor,Transcription factor
+SND1	2	0101000	Transcription cofactor,RNA binding protein
+SNIP1	3	1101000	Transcription cofactor,RNA binding protein,Transcription factor
+SNRNP70	2	1001000	RNA binding protein,Transcription factor
+SNRNP70	2	1001000	Transcription factor,RNA binding protein
+SNRPB2	1	0010000	Others
+SOAT1	1	0000010	Nuclear enzyme
+SOCS4	1	0010000	Others
+SOHLH2	1	1000000	Transcription factor
+SON	3	1001100	RNA binding protein,Transcription factor,Chromatin remodeller
+SOX10	1	1000000	Transcription factor
+SOX1	1	1000000	Transcription factor
+SOX11	1	1000000	Transcription factor
+SOX12	1	1000000	Transcription factor
+SOX13	1	1000000	Transcription factor
+SOX14	1	1000000	Transcription factor
+SOX15	1	1000000	Transcription factor
+SOX17	1	1000000	Transcription factor
+SOX18	1	1000000	Transcription factor
+SOX2	1	1000000	Transcription factor
+SOX21	1	1000000	Transcription factor
+SOX30	1	1000000	Transcription factor
+SOX3	1	1000000	Transcription factor
+SOX4	1	1000000	Transcription factor
+SOX5	1	1000000	Transcription factor
+SOX6	1	1000000	Transcription factor
+SOX7	1	1000000	Transcription factor
+SOX8	1	1000000	Transcription factor
+SOX9	1	1000000	Transcription factor
+SP100	2	1100000	Transcription cofactor,Transcription factor
+SP1	1	1000000	Transcription factor
+SP2	1	1000000	Transcription factor
+SP3	1	1000000	Transcription factor
+SP4	1	1000000	Transcription factor
+SP5	1	1000000	Transcription factor
+SP8	1	1000000	Transcription factor
+SP9	1	1000000	Transcription factor
+SPAG7	1	0010000	Others
+SPDEF	1	1000000	Transcription factor
+SPI1	1	1000000	Transcription factor
+SPIB	1	1000000	Transcription factor
+SPIC	1	1000000	Transcription factor
+SPR	2	1001000	RNA binding protein,Transcription factor
+SPZ1	1	1000000	Transcription factor
+SRBD1	1	0010000	Others
+SREBF1	1	1000000	Transcription factor
+SREBF2	1	1000000	Transcription factor
+SRF	2	1001000	RNA binding protein,Transcription factor
+SRP9	1	0010000	Others
+SRSF1	1	0001000	RNA binding protein
+SRSF3	2	1001000	Transcription factor,RNA binding protein
+SRSF7	2	1001000	RNA binding protein,Transcription factor
+SRSF9	2	1001000	Transcription factor,RNA binding protein
+SRY	2	1001000	Transcription factor,RNA binding protein
+SSBP3	1	0100000	Transcription cofactor
+SSRP1	2	1001000	Transcription factor,RNA binding protein
+SSX2	1	0100000	Transcription cofactor
+STAG1	1	0010000	Others
+STAT1	1	1000000	Transcription factor
+STAT2	1	1000000	Transcription factor
+STAT3	1	1000000	Transcription factor
+STAT4	1	1000000	Transcription factor
+STAT5A	1	1000000	Transcription factor
+STAT5B	1	1000000	Transcription factor
+STAT6	1	1000000	Transcription factor
+STAU2	1	0010000	Others
+SUCLG1	1	0001000	RNA binding protein
+SUMO2	1	0000100	Chromatin remodeller
+SUPT20H	2	1100000	Transcription factor,Transcription cofactor
+SUPT5H	3	1101000	RNA binding protein,Transcription factor,Transcription cofactor
+SUZ12	5	1101101	Polycomb group (PcG) protein,Transcription factor,Transcription cofactor,Chromatin remodeller,RNA binding protein
+SUZ12	5	1101101	Transcription cofactor,Transcription factor,RNA binding protein,Chromatin remodeller,Polycomb group (PcG) protein
+T	2	1001000	Transcription factor,RNA binding protein
+TAF1	4	1101100	RNA binding protein,Chromatin remodeller,Transcription cofactor,Transcription factor
+TAF1	4	1101100	Transcription cofactor,RNA binding protein,Transcription factor,Chromatin remodeller
+TAF15	3	1101000	Transcription cofactor,RNA binding protein,Transcription factor
+TAF1A	1	0100000	Transcription cofactor
+TAF2	3	1101000	RNA binding protein,Transcription cofactor,Transcription factor
+TAF3	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+TAF7	2	1100000	Transcription cofactor,Transcription factor
+TAF9B	2	1100000	Transcription factor,Transcription cofactor
+TAGLN2	1	0010000	Others
+TAL1	1	1000000	Transcription factor
+TARDBP	2	1001000	Transcription factor,RNA binding protein
+TBL1X	2	1100000	Transcription cofactor,Transcription factor
+TBL1XR1	2	1100000	Transcription factor,Transcription cofactor
+TBP	3	1101000	RNA binding protein,Transcription cofactor,Transcription factor
+TBP	3	1101000	Transcription cofactor,Transcription factor,RNA binding protein
+TBPL1	2	1100000	Transcription factor,Transcription cofactor
+TBPL2	2	1100000	Transcription factor,Transcription cofactor
+TBR1	1	1000000	Transcription factor
+TBX10	1	1000000	Transcription factor
+TBX1	1	1000000	Transcription factor
+TBX15	1	1000000	Transcription factor
+TBX18	1	1000000	Transcription factor
+TBX19	1	1000000	Transcription factor
+TBX20	1	1000000	Transcription factor
+TBX2	1	1000000	Transcription factor
+TBX21	1	1000000	Transcription factor
+TBX3	1	1000000	Transcription factor
+TBX4	1	1000000	Transcription factor
+TBX5	1	1000000	Transcription factor
+TBX6	1	1000000	Transcription factor
+TCEAL2	1	0100000	Transcription cofactor
+TCEAL6	1	0010000	Others
+TCF12	1	1000000	Transcription factor
+TCF15	1	1000000	Transcription factor
+TCF21	1	1000000	Transcription factor
+TCF23	1	1000000	Transcription factor
+TCF25	1	1000000	Transcription factor
+TCF3	1	1000000	Transcription factor
+TCF4	1	1000000	Transcription factor
+TCF7	1	1000000	Transcription factor
+TCF7L1	1	1000000	Transcription factor
+TCF7L2	1	1000000	Transcription factor
+TCFL5	1	1000000	Transcription factor
+TEAD1	1	1000000	Transcription factor
+TEAD2	1	1000000	Transcription factor
+TEAD3	1	1000000	Transcription factor
+TEAD4	1	1000000	Transcription factor
+TEF	2	1001000	Transcription factor,RNA binding protein
+TERF1	1	1000000	Transcription factor
+TERF2	1	1000000	Transcription factor
+TET1	2	1000100	Chromatin remodeller,Transcription factor
+TFAM	1	1000000	Transcription factor
+TFAP2A	1	1000000	Transcription factor
+TFAP2B	1	1000000	Transcription factor
+TFAP2C	1	1000000	Transcription factor
+TFAP2D	1	1000000	Transcription factor
+TFAP2E	1	1000000	Transcription factor
+TFAP4	1	1000000	Transcription factor
+TFCP2	1	1000000	Transcription factor
+TFCP2L1	1	1000000	Transcription factor
+TFDP1	1	1000000	Transcription factor
+TFDP2	1	1000000	Transcription factor
+TFE3	1	1000000	Transcription factor
+TFEB	1	1000000	Transcription factor
+TFEC	1	1000000	Transcription factor
+TGIF1	1	1000000	Transcription factor
+TGIF2	1	1000000	Transcription factor
+TGIF2LX	1	1000000	Transcription factor
+TGIF2LY	1	1000000	Transcription factor
+THAP1	1	1000000	Transcription factor
+THAP11	1	1000000	Transcription factor
+THAP12	1	1000000	Transcription factor
+THAP5	1	1000000	Transcription factor
+THRA	2	1001000	RNA binding protein,Transcription factor
+THRAP3	3	1101000	Transcription factor,RNA binding protein,Transcription cofactor
+THRB	1	1000000	Transcription factor
+TIA1	1	0001000	RNA binding protein
+TIMM44	1	0000010	Nuclear enzyme
+TIMM8A	1	0000010	Nuclear enzyme
+TLE3	1	0100000	Transcription cofactor
+TLX1	1	1000000	Transcription factor
+TLX2	1	1000000	Transcription factor
+TLX3	1	1000000	Transcription factor
+TMSB4XP8	1	0010000	Others
+TNR	2	1001000	Transcription factor,RNA binding protein
+TOB2	1	0100000	Transcription cofactor
+TOE1	2	1001000	RNA binding protein,Transcription factor
+TOP1	1	0100000	Transcription cofactor
+TOPORS	2	1100000	Transcription factor,Transcription cofactor
+TOX4	1	1000000	Transcription factor
+TP53	1	1000000	Transcription factor
+TP63	1	1000000	Transcription factor
+TP73	1	1000000	Transcription factor
+TPI1	1	0000010	Nuclear enzyme
+TPPP	1	0010000	Others
+TRAF4	1	0010000	Others
+TRIM21	1	0010000	Others
+TRIM22	2	1100000	Transcription factor,Transcription cofactor
+TRIM24	3	1100100	Transcription cofactor,Transcription factor,Chromatin remodeller
+TRIM24	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+TRIM25	2	0101000	RNA binding protein,Transcription cofactor
+TRIM28	3	1100100	Transcription factor,Transcription cofactor,Chromatin remodeller
+TRIM69	1	0010000	Others
+TRIP10	1	0010000	Others
+TRIP13	2	1100000	Transcription factor,Transcription cofactor
+TRMO	1	0010000	Others
+TRMT1	1	0000010	Nuclear enzyme
+TROVE2	1	0001000	RNA binding protein
+TRRAP	2	0100100	Transcription cofactor,Chromatin remodeller
+TSC22D4	1	1000000	Transcription factor
+TSHZ1	1	1000000	Transcription factor
+TSN	2	1001000	Transcription factor,RNA binding protein
+TSNAX	1	0010000	Others
+TTF1	1	1000000	Transcription factor
+TULP1	1	1000000	Transcription factor
+TWIST1	1	1000000	Transcription factor
+TWIST2	1	1000000	Transcription factor
+U2AF1	2	1001000	RNA binding protein,Transcription factor
+U2AF1	2	1001000	Transcription factor,RNA binding protein
+U2AF2	2	1001000	RNA binding protein,Transcription factor
+UBE2K	1	0000010	Nuclear enzyme
+UBE2O	2	0110000	Others,Transcription cofactor
+UBE2V1	1	0010000	Others
+UBN1	1	0010000	Others
+UBP1	2	1001000	Transcription factor,RNA binding protein
+UBTF	1	1000000	Transcription factor
+UGP2	1	0001000	RNA binding protein
+UNCX	1	1000000	Transcription factor
+UQCRB	1	0010000	Others
+USF1	1	1000000	Transcription factor
+USF2	1	1000000	Transcription factor
+USP39	1	0010000	Others
+USP7	2	0100010	Transcription cofactor,Nuclear enzyme
+UTP18	1	0001000	RNA binding protein
+UVRAG	1	0010000	Others
+VAMP3	1	0010000	Others
+VAX1	1	1000000	Transcription factor
+VAX2	1	1000000	Transcription factor
+VBP1	1	0010000	Others
+VDR	2	1001000	RNA binding protein,Transcription factor
+VENTX	1	1000000	Transcription factor
+VEZF1	1	1000000	Transcription factor
+VPS4B	1	0010000	Others
+VSX1	1	1000000	Transcription factor
+VSX2	1	1000000	Transcription factor
+VTN	2	1001000	RNA binding protein,Transcription factor
+WDR83	1	0010000	Others
+WISP2	1	0010000	Others
+WIZ	2	1001000	Transcription factor,RNA binding protein
+WRNIP1	1	1000000	Transcription factor
+WT1	1	1000000	Transcription factor
+XBP1	1	1000000	Transcription factor
+XG	2	1001000	RNA binding protein,Transcription factor
+XPA	2	1001000	Transcription factor,RNA binding protein
+XRCC1	1	0010000	Others
+XRCC3	1	1000000	Transcription factor
+XRCC4	1	1000000	Transcription factor
+XRCC5	2	1001000	Transcription factor,RNA binding protein
+YAP1	1	0100000	Transcription cofactor
+YBX1	2	1001000	RNA binding protein,Transcription factor
+YBX1	2	1001000	Transcription factor,RNA binding protein
+YBX3	2	1001000	RNA binding protein,Transcription factor
+YBX3	2	1001000	Transcription factor,RNA binding protein
+YEATS4	2	1000100	Chromatin remodeller,Transcription factor
+YWHAE	1	0010000	Others
+YWHAZ	1	0010000	Others
+YY1	2	1100000	Transcription cofactor,Transcription factor
+YY2	1	1000000	Transcription factor
+ZBED1	1	1000000	Transcription factor
+ZBED4	1	1000000	Transcription factor
+ZBTB1	1	1000000	Transcription factor
+ZBTB11	1	1000000	Transcription factor
+ZBTB12	1	1000000	Transcription factor
+ZBTB14	1	1000000	Transcription factor
+ZBTB16	1	1000000	Transcription factor
+ZBTB17	1	1000000	Transcription factor
+ZBTB18	1	1000000	Transcription factor
+ZBTB20	1	1000000	Transcription factor
+ZBTB2	1	1000000	Transcription factor
+ZBTB22	1	1000000	Transcription factor
+ZBTB24	1	1000000	Transcription factor
+ZBTB25	1	1000000	Transcription factor
+ZBTB26	1	1000000	Transcription factor
+ZBTB3	1	1000000	Transcription factor
+ZBTB32	1	1000000	Transcription factor
+ZBTB33	2	1000100	Chromatin remodeller,Transcription factor
+ZBTB37	1	1000000	Transcription factor
+ZBTB39	1	1000000	Transcription factor
+ZBTB40	1	1000000	Transcription factor
+ZBTB4	1	1000000	Transcription factor
+ZBTB42	1	1000000	Transcription factor
+ZBTB43	1	1000000	Transcription factor
+ZBTB44	1	1000000	Transcription factor
+ZBTB45	1	1000000	Transcription factor
+ZBTB46	1	1000000	Transcription factor
+ZBTB48	1	1000000	Transcription factor
+ZBTB49	1	1000000	Transcription factor
+ZBTB5	1	1000000	Transcription factor
+ZBTB6	1	1000000	Transcription factor
+ZBTB7A	1	1000000	Transcription factor
+ZBTB7B	1	1000000	Transcription factor
+ZBTB7C	1	1000000	Transcription factor
+ZBTB8A	1	1000000	Transcription factor
+ZC3H11A	2	1001000	RNA binding protein,Transcription factor
+ZC3H7A	2	1010000	Transcription factor,Others
+ZC3H8	2	1001000	RNA binding protein,Transcription factor
+ZC3H8	2	1001000	Transcription factor,RNA binding protein
+ZCCHC14	1	0010000	Others
+ZCCHC17	1	0010000	Others
+ZDHHC15	1	0000010	Nuclear enzyme
+ZEB1	1	1000000	Transcription factor
+ZEB2	1	1000000	Transcription factor
+ZFAT	1	1000000	Transcription factor
+ZFHX2	1	1000000	Transcription factor
+ZFHX3	1	1000000	Transcription factor
+ZFP1	1	1000000	Transcription factor
+ZFP14	1	1000000	Transcription factor
+ZFP28	1	1000000	Transcription factor
+ZFP30	1	1000000	Transcription factor
+ZFP3	2	1001000	Transcription factor,RNA binding protein
+ZFP36	2	1001000	Transcription factor,RNA binding protein
+ZFP41	1	1000000	Transcription factor
+ZFP42	1	1000000	Transcription factor
+ZFP64	1	1000000	Transcription factor
+ZFP82	1	1000000	Transcription factor
+ZFP91	1	1000000	Transcription factor
+ZFX	2	1001000	RNA binding protein,Transcription factor
+ZFY	2	1001000	RNA binding protein,Transcription factor
+ZHX1	1	1000000	Transcription factor
+ZHX2	1	1000000	Transcription factor
+ZHX3	1	1000000	Transcription factor
+ZIC1	1	1000000	Transcription factor
+ZIC2	1	1000000	Transcription factor
+ZIC3	1	1000000	Transcription factor
+ZIC4	1	1000000	Transcription factor
+ZIC5	1	1000000	Transcription factor
+ZIM3	1	1000000	Transcription factor
+ZKSCAN1	1	1000000	Transcription factor
+ZKSCAN3	1	1000000	Transcription factor
+ZKSCAN7	1	1000000	Transcription factor
+ZKSCAN8	1	1000000	Transcription factor
+ZMAT4	1	1000000	Transcription factor
+ZMIZ1	1	1000000	Transcription factor
+ZMYM3	1	1000000	Transcription factor
+ZMYND11	2	0100100	Chromatin remodeller,Transcription cofactor
+ZNF12	1	1000000	Transcription factor
+ZNF121	1	1000000	Transcription factor
+ZNF124	1	1000000	Transcription factor
+ZNF131	1	1000000	Transcription factor
+ZNF134	1	1000000	Transcription factor
+ZNF135	1	1000000	Transcription factor
+ZNF136	1	1000000	Transcription factor
+ZNF140	1	1000000	Transcription factor
+ZNF143	1	1000000	Transcription factor
+ZNF146	1	1000000	Transcription factor
+ZNF148	1	1000000	Transcription factor
+ZNF160	1	1000000	Transcription factor
+ZNF165	1	1000000	Transcription factor
+ZNF174	1	1000000	Transcription factor
+ZNF175	1	1000000	Transcription factor
+ZNF177	1	1000000	Transcription factor
+ZNF18	1	1000000	Transcription factor
+ZNF184	1	1000000	Transcription factor
+ZNF197	1	1000000	Transcription factor
+ZNF200	1	1000000	Transcription factor
+ZNF202	1	1000000	Transcription factor
+ZNF205	1	1000000	Transcription factor
+ZNF207	1	1000000	Transcription factor
+ZNF214	1	1000000	Transcription factor
+ZNF217	1	1000000	Transcription factor
+ZNF219	1	1000000	Transcription factor
+ZNF22	1	1000000	Transcription factor
+ZNF23	1	1000000	Transcription factor
+ZNF232	1	1000000	Transcription factor
+ZNF236	1	1000000	Transcription factor
+ZNF24	1	1000000	Transcription factor
+ZNF250	1	1000000	Transcription factor
+ZNF257	1	1000000	Transcription factor
+ZNF260	1	1000000	Transcription factor
+ZNF26	2	1001000	Transcription factor,RNA binding protein
+ZNF263	1	1000000	Transcription factor
+ZNF264	1	1000000	Transcription factor
+ZNF266	1	1000000	Transcription factor
+ZNF274	1	1000000	Transcription factor
+ZNF276	1	1000000	Transcription factor
+ZNF280A	1	1000000	Transcription factor
+ZNF280D	1	1000000	Transcription factor
+ZNF281	1	1000000	Transcription factor
+ZNF282	1	1000000	Transcription factor
+ZNF296	1	1000000	Transcription factor
+ZNF30	1	1000000	Transcription factor
+ZNF304	1	1000000	Transcription factor
+ZNF316	1	1000000	Transcription factor
+ZNF317	1	1000000	Transcription factor
+ZNF318	1	1000000	Transcription factor
+ZNF320	1	1000000	Transcription factor
+ZNF3	2	1001000	Transcription factor,RNA binding protein
+ZNF32	2	1001000	RNA binding protein,Transcription factor
+ZNF322	1	1000000	Transcription factor
+ZNF324	1	1000000	Transcription factor
+ZNF326	2	1001000	Transcription factor,RNA binding protein
+ZNF329	1	1000000	Transcription factor
+ZNF331	1	1000000	Transcription factor
+ZNF333	1	1000000	Transcription factor
+ZNF335	1	1000000	Transcription factor
+ZNF33A	1	1000000	Transcription factor
+ZNF34	1	1000000	Transcription factor
+ZNF341	1	1000000	Transcription factor
+ZNF343	1	1000000	Transcription factor
+ZNF345	1	1000000	Transcription factor
+ZNF350	1	1000000	Transcription factor
+ZNF35	1	1000000	Transcription factor
+ZNF354A	1	1000000	Transcription factor
+ZNF354B	1	1000000	Transcription factor
+ZNF354C	1	1000000	Transcription factor
+ZNF37A	1	1000000	Transcription factor
+ZNF382	1	1000000	Transcription factor
+ZNF384	1	1000000	Transcription factor
+ZNF385A	1	1000000	Transcription factor
+ZNF385D	1	1000000	Transcription factor
+ZNF394	1	1000000	Transcription factor
+ZNF395	1	1000000	Transcription factor
+ZNF396	1	1000000	Transcription factor
+ZNF407	1	1000000	Transcription factor
+ZNF410	1	1000000	Transcription factor
+ZNF41	1	1000000	Transcription factor
+ZNF415	1	1000000	Transcription factor
+ZNF418	1	1000000	Transcription factor
+ZNF419	1	1000000	Transcription factor
+ZNF423	1	1000000	Transcription factor
+ZNF436	1	1000000	Transcription factor
+ZNF444	1	1000000	Transcription factor
+ZNF449	1	1000000	Transcription factor
+ZNF454	1	1000000	Transcription factor
+ZNF460	1	1000000	Transcription factor
+ZNF467	1	1000000	Transcription factor
+ZNF490	1	1000000	Transcription factor
+ZNF501	1	1000000	Transcription factor
+ZNF502	1	1000000	Transcription factor
+ZNF503	1	1000000	Transcription factor
+ZNF507	1	1000000	Transcription factor
+ZNF510	1	1000000	Transcription factor
+ZNF512	1	1000000	Transcription factor
+ZNF513	1	1000000	Transcription factor
+ZNF524	1	1000000	Transcription factor
+ZNF528	1	1000000	Transcription factor
+ZNF547	1	1000000	Transcription factor
+ZNF549	1	1000000	Transcription factor
+ZNF554	1	1000000	Transcription factor
+ZNF563	1	1000000	Transcription factor
+ZNF574	1	1000000	Transcription factor
+ZNF580	1	1000000	Transcription factor
+ZNF581	1	1000000	Transcription factor
+ZNF582	1	1000000	Transcription factor
+ZNF584	1	1000000	Transcription factor
+ZNF586	1	1000000	Transcription factor
+ZNF589	1	1000000	Transcription factor
+ZNF592	1	1000000	Transcription factor
+ZNF596	1	1000000	Transcription factor
+ZNF597	1	1000000	Transcription factor
+ZNF618	1	1000000	Transcription factor
+ZNF628	1	1000000	Transcription factor
+ZNF639	1	1000000	Transcription factor
+ZNF644	1	1000000	Transcription factor
+ZNF652	1	1000000	Transcription factor
+ZNF655	1	1000000	Transcription factor
+ZNF660	1	1000000	Transcription factor
+ZNF667	1	1000000	Transcription factor
+ZNF669	1	1000000	Transcription factor
+ZNF671	1	1000000	Transcription factor
+ZNF680	1	1000000	Transcription factor
+ZNF682	1	1000000	Transcription factor
+ZNF683	1	1000000	Transcription factor
+ZNF684	1	1000000	Transcription factor
+ZNF691	1	1000000	Transcription factor
+ZNF695	1	1000000	Transcription factor
+ZNF704	1	1000000	Transcription factor
+ZNF706	1	1000000	Transcription factor
+ZNF708	1	1000000	Transcription factor
+ZNF71	1	1000000	Transcription factor
+ZNF711	1	1000000	Transcription factor
+ZNF713	1	1000000	Transcription factor
+ZNF720	1	1000000	Transcription factor
+ZNF740	1	1000000	Transcription factor
+ZNF750	1	1000000	Transcription factor
+ZNF75A	1	1000000	Transcription factor
+ZNF75D	1	1000000	Transcription factor
+ZNF76	1	1000000	Transcription factor
+ZNF766	1	1000000	Transcription factor
+ZNF768	1	1000000	Transcription factor
+ZNF770	1	1000000	Transcription factor
+ZNF771	1	1000000	Transcription factor
+ZNF774	1	1000000	Transcription factor
+ZNF777	1	1000000	Transcription factor
+ZNF778	1	1000000	Transcription factor
+ZNF784	1	1000000	Transcription factor
+ZNF787	1	1000000	Transcription factor
+ZNF816	1	1000000	Transcription factor
+ZNF8	2	1001000	Transcription factor,RNA binding protein
+ZNF821	1	1000000	Transcription factor
+ZNF830	1	1000000	Transcription factor
+ZNF83	1	1000000	Transcription factor
+ZNF85	1	1000000	Transcription factor
+ZNF92	1	1000000	Transcription factor
+ZSCAN10	1	1000000	Transcription factor
+ZSCAN1	1	1000000	Transcription factor
+ZSCAN16	1	1000000	Transcription factor
+ZSCAN22	1	1000000	Transcription factor
+ZSCAN23	1	1000000	Transcription factor
+ZSCAN26	1	1000000	Transcription factor
+ZSCAN29	1	1000000	Transcription factor
+ZSCAN31	1	1000000	Transcription factor
+ZSCAN4	1	1000000	Transcription factor
+ZSCAN5A	1	1000000	Transcription factor
+ZSCAN9	1	1000000	Transcription factor
+ZSWIM1	1	0010000	Others
+ZZZ3	1	1000000	Transcription factor
