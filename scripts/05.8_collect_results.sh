@@ -15,6 +15,7 @@ cells=($(grep "cells" $fi_cfg | cut -f2 | tr ',' "\n" | sort | uniq))
 for cell in ${cells[@]}
 do
   ln $din_cluster/${cell}_clusters_all.txt $dout_result/${cell}_clusters_list.txt
+  ln $din_clique/${cell}_cliques.txt $dout_result/${cell}_cliques.txt
   ln $din_clique/${cell}_max_cliques.txt $dout_result/${cell}_max_cliques.txt
   ln $din_pair/${cell}_pairs.txt $dout_result/${cell}_pairs.txt
   ln $din_score/${cell}_cluster_scores.txt $dout_result/${cell}_clusters_score.txt
