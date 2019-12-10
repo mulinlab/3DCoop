@@ -121,6 +121,8 @@ if ( $conf{"extract_clique"} =~ /yes/i ) {
         }
         close $IC or warn "$0 : failed to close input file '$fic' : $!\n";
 
+        rmdir($dot);
+
         my $fo = "$dout_clique/${cell}_cliques.txt";
         open my $O, '>', $fo
           or die "$0 : failed to open output file '$fo' : $!\n";

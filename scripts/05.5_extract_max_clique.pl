@@ -115,6 +115,8 @@ foreach my $cell (@cells) {
     }
     close $IC or warn "$0 : failed to close input file '$fic' : $!\n";
 
+    rmdir($dot);
+
     my $fo = "$dout_clique/${cell}_max_cliques.txt";
     open my $O, '>', $fo or die "$0 : failed to open output file '$fo' : $!\n";
     select $O;
