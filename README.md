@@ -1,5 +1,7 @@
 # 3DCoop
 
+*Inferring cell type-specific transcriptional regulators cooperation in the context of 3D chromatin*
+
 ## Overview
 
 The intact cooperation of transcriptional regulators (TRs), including transcription factors, histone modifying enzymes and chromatin remodellers, precisely determine gene expression in the cell nucleus. Deciphering the relationship among these TRs in the context of 3D chromatin and specific cell type will facilitate the understanding of transcriptional regulation.
@@ -45,3 +47,4 @@ For any question about 3DCoop, please contact yixfbio AT gmail DOT com.
 If you use 3DCoop, please cite:
 
 > XXXXX
+=======
