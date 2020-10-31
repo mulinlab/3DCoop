@@ -1,4 +1,4 @@
-gene	number	code	class
+TR	number_category	category_code	category
 ABCF2	1	0010000	Others
 AC012531.1	1	0010000	Others
 AC020909.1	1	1000000	Transcription factor
