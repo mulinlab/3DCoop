@@ -6,7 +6,7 @@
 
 The intact cooperation of transcriptional regulators (TRs), including transcription factors, histone modifying enzymes and chromatin remodellers, precisely determine gene expression in the cell nucleus. Deciphering the relationship among these TRs in the context of 3D chromatin and specific cell type will facilitate the understanding of transcriptional regulation.
 
-3DCoop is a computational tool to detect genome-wide and cell type-specific TRs cooperation in 3D mode (and 1D mode), by incorporating 3D chromatin loops (required for 3D mode) and TRs' footprinting. Results from 3C-based technologies (Hi-C, PCHi-C, ChIA-PET, HiChIP, *et al.*) can be used as the 3D chromatin loops. The TR's footprinting can be collected from ChIP-seq data, or be predicted by [PIQ](http://piq.csail.mit.edu) (incorporated in this repo) or similar tools using DNase/ATAC-seq and TRs' motifs. We have collected TRs' motifs from several resources as described in **3DCoop publication**.
+3DCoop is a computational tool to detect genome-wide and cell type-specific TRs cooperation in 3D mode (and 1D mode), by incorporating 3D chromatin interactions (required for 3D mode) and TRs' footprinting. Results from 3C-based technologies (Hi-C, PCHi-C, ChIA-PET, HiChIP, *et al.*) can be used as the 3D chromatin interactions. The TR's footprinting can be collected from ChIP-seq data, or be predicted by [PIQ](http://piq.csail.mit.edu) (incorporated in this repo) or similar tools using DNase/ATAC-seq and TRs' motifs. We have collected TRs' motifs from several resources as described in **3DCoop publication**.
 
 ## Installation
 
