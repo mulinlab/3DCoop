@@ -10,14 +10,14 @@ The intact cooperation of transcriptional regulators (TRs), including transcript
 
 ## Installation
 
-The environment of 3DCoop is build using conda, so play make sure the conda has been installed and configured. The [bioconda document](https://bioconda.github.io/user/install.html) can be referenced.
+The environment of 3DCoop is build using conda, so please make sure the conda has been installed and configured. The [bioconda document](https://bioconda.github.io/user/install.html) can be referenced.
 
 Then, you can install 3DCoop through:
 
 ```bash
 cd ~
-git clone https://github.com/XXX
-cd XXX
+git clone https://github.com/mulinlab/3Dcoop
+cd 3Dcoop
 bash conda.sh
 ```
 
@@ -35,10 +35,10 @@ conda deactivate 3DCoop
 
 ## Usage
 
-After installation of 3DCoop, this pipeline can be used by preparing input files and a configure file. The details of preparing and running are described in the [usage manual](./usage.md).
+After installation of 3DCoop, this pipeline can be used with prepared input files and a configure file. The details of preparing and running are described in the [usage manual](./usage.md).
 
 ## Credits
-3Dcoop was written by Xianfu Yi, part of the Mulin group.
+3Dcoop was written by Xianfu Yi, member of the Mulin group.
 
 For any question about 3DCoop, please contact yixfbio AT gmail DOT com.
 
@@ -46,4 +46,4 @@ For any question about 3DCoop, please contact yixfbio AT gmail DOT com.
 
 If you use 3DCoop, please cite:
 
-> XXXXX
+> Landscape of cell type-specific cooperation of transcriptional regulators in 3D chromatin
