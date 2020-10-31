@@ -11,9 +11,9 @@ df2mat <- function(df){
   ids <- sort(unique(c(as.character(df$x), as.character(df$y))))
   mat <- matrix(NA, nrow=length(ids), ncol=length(ids), dimnames=list(ids, ids))
   diag(mat) <- 1
-  #fill
+  # fill
   mat[as.matrix(df[, 1:2])] <- df[,3]
-  #fill reversed
+  # fill reversed
   mat[as.matrix(df[, 2:1])] <- df[,3]
   return(mat)
 }
@@ -55,13 +55,13 @@ for (cell in cells){
   jac <- jac %>% dplyr::select(TF1, TF2, Jaccard)
   
   mat <- df2mat(jac)
-  #X.npn <- scale_matrix(mat)
+  # X.npn <- scale_matrix(mat)
   X.npn <- huge.npn(mat)
-  #out.npn <- huge(X.npn, lambda=0.127, method="glasso")
+  # out.npn <- huge(X.npn, lambda=0.127, method="glasso")
   out.npn <- huge(X.npn, method="glasso")
-  #plot.huge(out.npn)
+  # plot.huge(out.npn)
   npn.ebic <- huge.select(out.npn, criterion="ebic")
-  #plot.select(npn.ebic)
+  # plot.select(npn.ebic)
   
   gm <- as.matrix(npn.ebic$opt.icov)
   rn <- rownames(mat)

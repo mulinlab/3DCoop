@@ -19,7 +19,7 @@ for (cl in cells){
 
   dfd <- df %>% group_by(density) %>% summarise(number=sum(number))
   pd <- ggplot(dfd, aes(x=density, y=number)) + geom_point() + geom_line()
-  #pd
+  # pd
   ggsave(file.path(dio_number, paste0(cl, "_all_density.png")), pd)
 
   dfc <- df %>% filter(k<=7) %>% mutate(k=as.character(k))

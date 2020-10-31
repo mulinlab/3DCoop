@@ -27,8 +27,8 @@ foreach my $cell (@cells) {
     # each file in "${cell}_${tf}.bed" format, such as K562_CTCF.bed
     my $din_peak = "$din/peaks/$cell";
 
-# folder saving Hi-C/HiChIP/ChIA-PET interactions
-# pair files in "${cell}.bed" and "${cell}.bedpe" format, such as K562.bed & K562.bedpe
+    # folder saving Hi-C/HiChIP/ChIA-PET interactions
+    # pair files in "${cell}.bed" and "${cell}.bedpe" format, such as K562.bed & K562.bedpe
     my $din_interaction = "$din/interactions/$cell";
 
     # folder to save intersection results: each folder per cell

@@ -52,7 +52,7 @@ foreach my $cell (@cells) {
     my @lines_all;
     $pm->run_on_finish(
         sub {
-   # my ( $pid, $exit_code, $ident, $exit_signal, $core_dump, $ref_lines ) = @_;
+            # my ( $pid, $exit_code, $ident, $exit_signal, $core_dump, $ref_lines ) = @_;
             my $ref_lines = pop @_;
             push @lines_all, @$ref_lines;
         }
@@ -114,4 +114,3 @@ sub get_jaccard {
     }
     return (@lines_tfa);
 }
-

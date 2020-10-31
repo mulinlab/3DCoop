@@ -33,11 +33,9 @@ foreach my $cell (@cells) {
         $bn =~ s/\.bed/_bin.bed/;
         my $fo = "$dout_cell/$bn";
 
-# system "bedtools intersect -a $fip -b $fib -f $frac -wa -wb > $fo";
-# system "bedtools intersect -a $fip -b $fin_bin -f $frac -wa -wb | cut -f6-8 | sort | uniq | bedtools sort -i stdin > $fo";
+        # system "bedtools intersect -a $fip -b $fib -f $frac -wa -wb > $fo";
+        # system "bedtools intersect -a $fip -b $fin_bin -f $frac -wa -wb | cut -f6-8 | sort | uniq | bedtools sort -i stdin > $fo";
         system
 "cut -f1-3 $fip | bedtools intersect -a stdin -b $fin_bin -f $frac -wa -wb | cut -f4-6 | sort | uniq | bedtools sort -i stdin > $fo";
     }
-
 }
-

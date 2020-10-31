@@ -35,7 +35,7 @@ mix_color <- function (str_color) {
 }
 
 # Transcription factor, Transcription cofactor, Others, RNA binding protein, Chromatin remodeller, Nuclear enzyme, Polycomb group (PcG) protein
-#color_class <- c("#E41A1C", "#377EB8", "#999999", "#4DAF4A", "#A65628", "#FF7F00", "#984EA3")
+# color_class <- c("#E41A1C", "#377EB8", "#999999", "#4DAF4A", "#A65628", "#FF7F00", "#984EA3")
 color_class <- c("#D95757", "#3366CC", "#DD4477", "#109618", "#FF9900", "#0099C6", "#990099")
 
 for (cell in cells) {
@@ -51,7 +51,7 @@ for (cell in cells) {
   alpha_color <- lapply(pie_color, SetAlpha, alpha=0.5)
   df_nodes <- df_nodes %>% group_by(tf) %>% mutate(mix=mix_color(as.character(color)))
   
-  #V(dg)$size <- sqrt((df_nodes$hub + 1) * 9) + 0.5
+  # V(dg)$size <- sqrt((df_nodes$hub + 1) * 9) + 0.5
   V(dg)$size <- sqrt((df_nodes$hub + 1) * 2) + 0.5
   # V(dg)$size <- sqrt(df_nodes$degree) * 2 # for node degree
   # V(dg)$size <- df_nodes$degree + 2 # for link weight
@@ -74,7 +74,7 @@ for (cell in cells) {
   
   E(dg)$width <- df_links$weight * 5
   pdf(file.path(dinout, paste0(cell, "_network_pie.pdf")), width=14, height=14)
-  #pdf(file.path(dinout, paste0(cell, "_network_pie.pdf")), width=25, height=25)
+  # pdf(file.path(dinout, paste0(cell, "_network_pie.pdf")), width=25, height=25)
   plot(dg, 
        vertex.shape="pie", vertex.pie=pie_values, vertex.pie.color=pie_color, vertex.pie.lty=0, 
        vertex.label=NA,
