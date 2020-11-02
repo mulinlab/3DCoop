@@ -20,7 +20,7 @@ mkdir $dio_network unless -d $dio_network;
 
 my $din_resource = "$FindBin::Bin/../resource";
 my %code;
-my $fic = "$din_resource/$conf{species}". "_tf_class.txt";
+my $fic = "$din_resource/$conf{species}". "_TR_category.txt";
 open my $IC, '<', $fic
   or die "$0 : failed to open input file '$fic' : $!\n";
 while (<$IC>) {
