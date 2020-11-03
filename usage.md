@@ -10,8 +10,6 @@ Two datasets for testing, one for 3D mode and one for 1D mode, has been included
 
 The details of input files, configure file, and pipeline running steps will be described in this manual.
 
-*The `test` folder contains all inputs and outputs for two cell lines. It is too big to upload to GitHub. It will be shared in another way. Please be patient. I apologize for this.*
-
 ## Input files
 
 Two types input data (`interactions` and `peaks` for 3D mode and only `peaks` for 1D mode) are needed for 3DCoop, so we organize them in one folder named `inputs`:
