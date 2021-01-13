@@ -135,3 +135,12 @@ perl DIR_TO_3DCoop/bin/extract_jaccard_glasso.pl DIR_TO_OUPTUT/03_jaccard/jaccar
 perl DIR_TO_3DCoop/bin/extract_jaccard_glasso.pl DIR_TO_OUPTUT/04_glasso/glasso_CELLID.txt ctcf Rad21 SMC3 YY1
 ```
 
+### `make_genome_bins.pl`
+
+This script can make genome bins which will be required for 1D mode. The bin file is saved into `DIR_TO_3DCoop/resource` in `GENOMEBUILD_bins_BINNAME.bed` format, such as ``DIR_TO_3DCoop/resource/hg19_bins_5kb.bed`. It can be used by:
+
+```shell
+# perl make_genome_bins.pl <GENOME_BUILD> <BINNAME>
+perl DIR_TO_3DCoop/bin/make_genome_bins.pl hg19 1kb
+perl DIR_TO_3DCoop/bin/make_genome_bins.pl mm10 1Mb
+```
