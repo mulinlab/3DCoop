@@ -52,6 +52,8 @@ The configure file is a text file with 2 columns and several rows using the `TAB
 key	value
 species	human
 mode	3D
+build	hg19
+binsize	5kb
 dir_in	inputs
 dir_out	outputs
 cells	K562
@@ -66,12 +68,14 @@ Each key in the first column and its values is explained:
 
 * `species`: `human` or `mouse`.
 * `mode`: `3D` for 3D mode and `1D` for 1D mode.
+* `build`: genome build name, *only* required for 1D mode, such as `hg19`, `hg38`, `mm10`.
+* `binsize`: genome bin size name, *only* required for 1D mode, such as `5kb`, `1Mb`.
 * `dir_in`: directory for input files, which including peaks and/or interactions for 3D mode or 1D mode.
 * `dir_out`: the results will be stored  here.
 * `cells`:  ID of tissues or cell types. Multiple ID can be specified by separated using `,`, such as `K562,GM12878,KBM7`.
-* `fraction`: a minimal overlap fraction of peak to assign it to a certain interaction. Multiple values can be specified by separated using `,`. Make sure the length is same to length of `cells`.
-* `cpus`: number of threads will be used. `cells` can use different `cpus`, but make sure they have the same length.
-* `cutoffs`: the cutoff used for ClusterONE for clusters extraction. `auto` can be used to define the cutoff automatically. `cells` can use different `cutoffs`, but make sure they have the same length.
+* `fraction`: a minimal overlap fraction of peak to assign it to a certain interaction. Multiple values can be specified by separated using `,`. *Make sure* the length is same to length of `cells`.
+* `cpus`: number of threads will be used. `cells` can use different `cpus`, but *make sure* they have the same length.
+* `cutoffs`: the cutoff used for ClusterONE for clusters extraction. `auto` can be used to define the cutoff automatically. `cells` can use different `cutoffs`, but *make sure* they have the same length.
 * `extract_clique`: extract cliques from clusters, the values are `yes` or `no`. `no` is recommended because it will use huge memory and days to extract cliques from large clusters.
 * `pie`: display pie chart for each TR, the values are `true` or `false`. Make sure use `false` for `mouse`, and `true` or `false` for `human` as you wanted.
 
@@ -137,7 +141,7 @@ perl DIR_TO_3DCoop/bin/extract_jaccard_glasso.pl DIR_TO_OUPTUT/04_glasso/glasso_
 
 ### `make_genome_bins.pl`
 
-This script can make genome bins which will be required for 1D mode. The bin file is saved into `DIR_TO_3DCoop/resource` in `GENOMEBUILD_bins_BINNAME.bed` format, such as ``DIR_TO_3DCoop/resource/hg19_bins_5kb.bed`. It can be used by:
+This script can make genome bins which will be required for 1D mode. The bin file is saved into `DIR_TO_3DCoop/resource` in `GENOMEBUILD_bins_BINNAME.bed` format, such as `DIR_TO_3DCoop/resource/hg19_bins_5kb.bed`. It can be used by:
 
 ```shell
 # perl make_genome_bins.pl <GENOME_BUILD> <BINNAME>

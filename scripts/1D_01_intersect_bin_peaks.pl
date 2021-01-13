@@ -17,7 +17,7 @@ mkdir $dout unless -d $dout;
 my @cells    = sort @{ $conf{cells} };
 my $num_cell = @cells;
 
-my $fin_bin = "$FindBin::Bin/../resource/hg19_bins_5kb.bed";
+my $fin_bin = "$FindBin::Bin/../resource/$conf{build}_bins_$conf{binsize}.bed";
 
 foreach my $cell (@cells) {
     my $frac     = $conf{fraction}->{$cell};
@@ -33,8 +33,8 @@ foreach my $cell (@cells) {
         $bn =~ s/\.bed/_bin.bed/;
         my $fo = "$dout_cell/$bn";
 
-        # system "bedtools intersect -a $fip -b $fib -f $frac -wa -wb > $fo";
-        # system "bedtools intersect -a $fip -b $fin_bin -f $frac -wa -wb | cut -f6-8 | sort | uniq | bedtools sort -i stdin > $fo";
+# system "bedtools intersect -a $fip -b $fib -f $frac -wa -wb > $fo";
+# system "bedtools intersect -a $fip -b $fin_bin -f $frac -wa -wb | cut -f6-8 | sort | uniq | bedtools sort -i stdin > $fo";
         system
 "cut -f1-3 $fip | bedtools intersect -a stdin -b $fin_bin -f $frac -wa -wb | cut -f4-6 | sort | uniq | bedtools sort -i stdin > $fo";
     }
