@@ -148,3 +148,18 @@ This script can make genome bins which will be required for 1D mode. The bin fil
 perl DIR_TO_3DCoop/bin/make_genome_bins.pl hg19 1kb
 perl DIR_TO_3DCoop/bin/make_genome_bins.pl mm10 1Mb
 ```
+
+### `map_variant2TRpair.pl`
+
+This script can get the variants-associated TRs and TR pairs based on the coordinate of variants. It can be used by:
+
+```shell
+# perl map_variant2TRpair.pl <FILE_OF_CFG> <CELL_NAME> <FILE_OF_VARIANTS>
+perl DIR_TO_3DCoop/bin/map_variant2TRpair.pl 3DCoop_K562.cfg K562 GWAS_variants.bed
+```
+
+* The input file for variants should be in **BED format**. Only the **first 3 columns** will be used for processing, and all columns will be in the final output file.
+* The outputs will be saved in a subdirectory named `07_variants2TRs` in the main output directory.
+  * `variants2TRpairs.txt` is the final output. Columns `1~N` are same the columns of variants, columns `N+1` and `N+2` are the associated TR and TR pairs. The last column `N+3` indicates the detection method for TR pair, while `loop` means that it can *only* be detected by chromatin loops interaction but *not* reported by 3DCoop, and `3DCoop` means that it can be detected by chromatin loops interaction and also reported by 3DCoop.
+  * `snp2peak2bin2loop.txt` contains the mapping relationship between variants, TR peaks, genome bins, and chromatin loops. The first row is a header for columns interpretation. It may be used for results checking.
+  * `tmp_*.txt` are intermediate files. You can ignore them.
