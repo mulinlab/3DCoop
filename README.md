@@ -46,5 +46,5 @@ For any question about 3DCoop, please contact yixfbio AT gmail DOT com.
 
 If you use 3DCoop, please cite:
 
-> Interrogating cell type-specific cooperation of transcriptional regulators in 3D chromatin, *iScience*
+Yi Xianfu, Zheng Zhanye, Xu Hang, Zhou Yao, Huang Dandan, Wang Jianhua, Feng Xiangling, Zhao Ke, Fan Xutong, Zhang Shijie, Dong Xiaobao, Wang Zhao, Shen Yujun, Cheng Hui, Shi Lei, Li Mulin Jun. Interrogating cell type-specific cooperation of transcriptional regulators in 3D chromatin. *iScience*. 2021;24:103468. doi:10.1016/j.isci.2021.103468. <https://www.sciencedirect.com/science/article/pii/S2589004221014395>
 
