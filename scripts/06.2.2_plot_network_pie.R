@@ -68,7 +68,7 @@ for (cell in cells) {
   png(file.path(dinout, paste0(cell, "_network_pie_label.png")), width=4200, height=4200, res=300)
   plot(dg, 
        vertex.shape="pie", vertex.pie=pie_values, vertex.pie.color=alpha_color, vertex.pie.lty=0,
-       vertex.label.color="black", vertex.label.cex=0.5, vertex.label.dist=0, vertex.label.family="Times", vertex.label.font=2,
+       vertex.label.color="black", vertex.label.cex=0.5, vertex.label.dist=0, vertex.label.family="Helvetica", vertex.label.font=2,
        layout=l)
   dev.off()
   
@@ -83,7 +83,7 @@ for (cell in cells) {
   pdf(file.path(dinout, paste0(cell, "_network_pie_label.pdf")), width=14, height=14)
   plot(dg, 
        vertex.shape="pie", vertex.pie=pie_values, vertex.pie.color=alpha_color, vertex.pie.lty=0, 
-       vertex.label.color="black", vertex.label.cex=0.5, vertex.label.dist=0, vertex.label.family="Times", vertex.label.font=2,
+       vertex.label.color="black", vertex.label.cex=0.5, vertex.label.dist=0, vertex.label.family="Helvetica", vertex.label.font=2,
        layout=l)
   dev.off()
   
@@ -93,9 +93,9 @@ for (cell in cells) {
   gg <- gg + geom_edges(size=df_links$weight * 2, color="gray80")
   gg <- gg + geom_nodes(color=df_nodes$mix, size=sqrt((df_nodes$hub + 1) * 9) + 0.5)
   gg <- gg + theme_blank(legend.position="none")
-  gg <- gg + geom_nodetext_repel(aes(label=vertex.names), point.padding=unit(0.3, "lines"), family="serif")
+  gg <- gg + geom_nodetext_repel(aes(label=name), point.padding=unit(0.3, "lines"), family="Arial")
   fop <- file.path(dinout, paste0(cell,"_network.png"))
   ggsave(fop, gg, width=20, height=20)
   fof <- file.path(dinout, paste0(cell, "_network.pdf"))
-  ggsave(fof, gg, width=20, height=20)
+  ggsave(fof, gg, width=20, height=20, device=cairo_pdf)
 }
