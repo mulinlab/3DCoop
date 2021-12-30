@@ -91,7 +91,7 @@ perl DIR_TO_BIN/01_02_prepare4jaccard.pl FILE_OF_CFG
 # STEP2: Calculate the Jaccard for TR pairs
 perl DIR_TO_BIN/03_jaccard.pl FILE_OF_CFG
 # STEP3: Run Glasso based on Jaccard values to estimate the precision matrix 
-perl DIR_TO_BIN/04_glasso.R FILE_OF_CFG
+Rscript DIR_TO_BIN/04_glasso.R FILE_OF_CFG
 # STEP4: Run ClusterONE based on GALSSO results to identify TR clusters
 perl DIR_TO_BIN/05_clusterone.pl FILE_OF_CFG
 # STEP55: Visualize the TR cooperation network
