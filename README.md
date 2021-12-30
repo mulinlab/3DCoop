@@ -42,7 +42,7 @@ source deactivate 3DCoop
 After installation of 3DCoop, this pipeline can be used with prepared inputs and a configuration file. The details for preparing and running are described in the [usage manual](./usage.md).
 
 ## Credits
-3Dcoop was written by Xianfu Yi, member of the Mulin group.
+3DCoop was written by Xianfu Yi, member of the Mulin group.
 
 For any question about 3DCoop, please contact yixfbio AT gmail DOT com.
 
