@@ -3,45 +3,24 @@
 dir_bin="bin"
 fi_cfg="K562.conf"
 
-# Step1: ~10 minutes per cell
-perl $dir_bin/1D_01_intersect_bin_peaks.pl $fi_cfg
+# Step1: ~10 minutes
+perl $dir_bin/01_02_prepare4jaccard.pl $fi_cfg
 
-# Step3: ~5 minutes per cell using 50 threads
-perl $din_bin/1D_03_jaccard_in_parrallel.pl $fi_cfg
+# Step3: ~5 minutes using 50 threads
+perl $din_bin/03_jaccard.pl $fi_cfg
 # extract Jaccard between TFs
 #perl $din_bin/extract_jaccard_glasso.pl outputs/03_jaccard/jaccard_HMEC.txt CTCF SMC3 RAD21 yy1
 
-
-# Step4: ~1 minutes per cell
+# Step4: ~1 minutes
 Rscript $din_bin/04_glasso.R $fi_cfg
 
-# Step5: ~0.5 hours per cell
-# perl $din_bin/05_clusterone.pl $fi_cfg
-# # Step5.1 & 5.2: ~1 minutes per cell
-perl $din_bin/05.1_ClusterONE_test_or_fix.pl $fi_cfg
-# # Step5.3: seconds per cell
-perl $din_bin/05.3_get_clusters.pl $fi_cfg
-# # Step5.4: ~1 minutes per cell
-perl $din_bin/05.4_extract_clique.pl $fi_cfg
-# # Step5.5: ~1 minutes per cell
-perl $din_bin/05.5_extract_max_clique.pl $fi_cfg
-# # Step5.6: seconds per cell
-perl $din_bin/05.6_maxclique2pair.pl $fi_cfg
-# # Step5.7: ~seconds per cell
-perl $din_bin/05.7_score_clutser.pl $fi_cfg
-# # Step5.8: ~seconds per cell
-bash $din_bin/05.8_collect_results.sh $fi_cfg
+# Step5: ~0.5 hour
+perl $din_bin/05_clusterone.pl $fi_cfg
 
-# Step6: ~5 minutes per cell
+# Step6: ~5 minutes
 perl $din_bin/06_network.pl $fi_cfg
-# # Step6.1: seconds per cell
-# perl $din_bin/06.1_complex2network.pl $fi_cfg
-# # Step6.2: seconds per cell
-# perl $din_bin/06.2_prepare4pie.pl $fi_cfg
-# # Step6.3: ~5 minutes per cell
-# Rscript $din_bin/06.3_plot_network.R $fi_cfg
 
-# Step7: ~1 minutes per cell
-perl $din_bin/07.1_extract_cliques.pl $WORK_DIR $CELL TF1 TF2 TF3
-perl $din_bin/07.2_extract_cliques_info.pl $WORK_DIR $CELL
-Rscript $din_bin/07.3_plot_clique_pie.R $WORK_DIR $CELL
+# Step7: ~1 minutes
+#perl $din_bin/../scripts/07.1_extract_cliques.pl $WORK_DIR $CELL TF1 TF2 TF3
+#perl $din_bin/../scripts/07.2_extract_cliques_info.pl $WORK_DIR $CELL
+#Rscript $din_bin/../scripts/07.3_plot_clique_pie.R $WORK_DIR $CELL
