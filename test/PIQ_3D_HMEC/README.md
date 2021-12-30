@@ -1,4 +1,4 @@
-To save space, only little files used for reference were uploaded to some folders, including:
+To save space, only little files used for reference were uploaded into certain folders, including:
 
 * `inputs/peaks/HMEC`
 * `outputs/01_intersection_bed/HMEC`
@@ -16,5 +16,5 @@ Pay attention to:
 
 * **Files in `inputs/peaks/HMEC` should be expanded to run 3DCoop pipeline successfully.**
 
-* Results in `outputs` was used for reference only. It does not matter.
+* Results in `outputs` was used for reference only.
 
