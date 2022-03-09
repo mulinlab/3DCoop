@@ -1,5 +1,7 @@
 - Cloned from https://bitbucket.org/thashim/piq-single
-- Fixed a bug in pairedbam2rdata.r (2017-04-27)
+- Fixed a bug in `pairedbam2rdata.r` (2017-04-27)
+  - Change the `(seqnames(lreads)==chr)` in lines 44 and 48 to `(array(seqnames(lreads))==chr)`
+
 
 
 IMPORTANT - READ ME
@@ -80,7 +82,7 @@ If you have multiple experiments in the same experimental condition but differen
 If you have control experiments such as genomic DNA or naked DNase-I digestion and want to know if your results are significant with respect to control. Do the following:
 
     `Rscript pertf.bg.r /cluster/thashim/basepiq/common.r /cluster/thashim/PIQ/motif.matches/ /scratch/tmp/ /cluster/thashim/130130.mm10.d0/ /cluster/thashim/PIQ/d0.RData /cluter/thashim/PIQ/control.RData 139`
-
+    
     This will use the profile / footprint learned from the training data (d0.RData) and output scores over the control data.
 
 
