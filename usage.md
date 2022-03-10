@@ -163,3 +163,50 @@ perl DIR_TO_3DCoop/bin/map_variant2TRpair.pl 3DCoop_K562.cfg K562 GWAS_variants.
   * `variants2TRpairs.txt` is the final output. Columns `1~N` are identical to the columns of variants, columns `N+1` and `N+2` are the associated TR and TR pairs. The last column `N+3` indicates the detection method for TR pairs, while `loop` means that it can *only* be detected by chromatin interactions but *not* reported by 3DCoop, and `3DCoop` means that it can be detected by chromatin interactions and also reported by 3DCoop.
   * `snp2peak2bin2loop.txt` contains the mapping relationship between variants, TR peaks, genome bins, and chromatin loops. The first row is a header for columns interpretation. It may be used for checking results.
   * `tmp_*.txt` are intermediate files. Users can ignore and delete them.
+
+## Get TR motifs from databases
+
+Nearly all databases hvae collected TR motifs for many species. Here we use the data for human (*Homo Sapiens*) as the example. The process for data of other species is similar.
+
+### [JASPAR](https://jaspar.genereg.net/)
+
+1. Download PFM data for [**vertebrates**](https://jaspar2018.genereg.net/download/data/2018/CORE/JASPAR2018_CORE_vertebrates_non-redundant_pfms_jaspar.txt) in [**JASPAR CORE**](https://jaspar2018.genereg.net/downloads/).
+
+   ```
+   wget -c https://jaspar.genereg.net/download/data/2022/CORE/JASPAR2022_CORE_vertebrates_non-redundant_pfms_jaspar.txt
+   ```
+
+2. Covert the format.
+
+   ```
+   # perl DIR_TO_3DCoop/bin/convert_JASPAR.pl DIR_TO_JASPAR/JASPAR_FILE.txt DIR_TO_OUTPUT/OUTPUT_FILE.txt
+   perl ./bin/convert_JASPAR.pl ./resource/JASPAR2022/JASPAR2022_CORE_vertebrates_non-redundant_pfms_jaspar.txt ./resource/motif_JASPAR2022.txt
+   ```
+
+### [CIS-BP](http://cisbp.ccbr.utoronto.ca/)
+
+1. Download data for human from [Bulk downloads page](http://cisbp.ccbr.utoronto.ca/bulk.php). For the "By Species" line, just select "Homo_sapiens" under the "Selection" column. Other options can be kept as the default. Then click "Download Species Archive!" from the "Action" column. Unzip the downloaded file, and rename the folder if you want.
+
+2. Convert the format.
+
+   ```
+   # perl DIR_TO_3DCoop/bin/convert_CISBP.pl DIR_TO_CISBP DIR_TO_OUTPUT/OUTPUT_FILE.txt
+   perl ./bin/convert_CISBP.pl ./resource/CISBP_v2 ./resource/motif_CISBPv2.txt
+   ```
+
+### [HOCOMOCO](https://hocomoco11.autosome.ru/)
+
+1. Download matrices from [core collection (primary binding models of ABC quality)](https://hocomoco11.autosome.ru/downloads_v11) in [JASPAR format](https://hocomoco11.autosome.ru/final_bundle/hocomoco11/core/HUMAN/mono/HOCOMOCOv11_core_HUMAN_mono_jaspar_format.txt).
+
+   ```
+   wget -c https://hocomoco11.autosome.ru/final_bundle/hocomoco11/core/HUMAN/mono/HOCOMOCOv11_core_HUMAN_mono_jaspar_format.txt
+   ```
+
+2. Convert the format.
+
+   ```
+   # perl DIR_TO_3DCoop/bin/convert_HOCOMOCO.pl DIR_TO_HOCOMOCO/HOCOMOCO_FILE.txt DIR_TO_OUTPUT/OUTPUT_FILE.txt
+   perl ./bin/convert_HOCOMOCO.pl ./resource/HOCOMOCOv11/HOCOMOCOv11_core_HUMAN_mono_jaspar_format.txt ./resource/motif_HOCOMOCOv11.txt
+   ```
+
+   
