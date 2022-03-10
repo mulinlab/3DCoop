@@ -76,7 +76,7 @@ The keys in the first column and corresponding values in the second column are e
 * `fraction`: a minimal overlap fraction of peak to assign it to a certain interaction. Multiple values can be specified by separated using `,`. *Make sure* the length is same to length of `cells`.
 * `cpus`: number of threads. `cells` can use different `cpus`, but *make sure* they have the same length.
 * `cutoffs`: the cutoff used in ClusterONE for clusters extraction. `auto` can be used to define the cutoff automatically. `cells` can use different `cutoffs`, but *make sure* they have the same length.
-* `extract_clique`: extract cliques from clusters. The values are `yes` or `no`, and `no` is recommended because it will use huge memory and days to extract cliques from large clusters.
+* `extract_clique`: extract cliques (subsets of TRs, all adjacent to each other) from clusters. The values are `yes` or `no`, and `no` is recommended because it will use huge memory and days to extract cliques from large clusters.
 * `pie`: display pie chart for each TR to indicate TR categories. The values are `true` or `false`. Make sure use `false` for `mouse`, and `true` or `false` for `human` as users want.
 
 ## Run pipeline
@@ -208,5 +208,3 @@ Nearly all databases hvae collected TR motifs for many species. Here we use the 
    # perl DIR_TO_3DCoop/bin/convert_HOCOMOCO.pl DIR_TO_HOCOMOCO/HOCOMOCO_FILE.txt DIR_TO_OUTPUT/OUTPUT_FILE.txt
    perl ./bin/convert_HOCOMOCO.pl ./resource/HOCOMOCOv11/HOCOMOCOv11_core_HUMAN_mono_jaspar_format.txt ./resource/motif_HOCOMOCOv11.txt
    ```
-
-   
