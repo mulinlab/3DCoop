@@ -10,7 +10,7 @@ The intact cooperation of transcriptional regulators (TRs), including transcript
 
 ## Installation
 
-The environment of 3DCoop is built using conda and bioconda. Please make sure the conda has been installed and configured. The [bioconda document](https://bioconda.github.io/user/install.html) can be referred for conda installation and bioconda channels setting up.
+The environment of 3DCoop is built using conda and bioconda. Please make sure the conda has been installed and configured. The [bioconda installation page](https://bioconda.github.io/user/install.html) can be referred for conda installation and bioconda channels setting up.
 
 Then, you can install 3DCoop:
 
@@ -36,6 +36,8 @@ conda deactivate 3DCoop
 # or
 source deactivate 3DCoop
 ```
+
+If you encounter problems during conda installation or 3DCoop environment setting up, please refer to the [FAQ for conda](./conda_FAQ.md).
 
 ## Usage
 
