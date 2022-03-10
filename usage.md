@@ -164,6 +164,15 @@ perl DIR_TO_3DCoop/bin/map_variant2TRpair.pl 3DCoop_K562.cfg K562 GWAS_variants.
   * `snp2peak2bin2loop.txt` contains the mapping relationship between variants, TR peaks, genome bins, and chromatin loops. The first row is a header for columns interpretation. It may be used for checking results.
   * `tmp_*.txt` are intermediate files. Users can ignore and delete them.
 
+### `extract_motif_TR_list.pl`
+
+This script extracts the motif-TR pairs list from the motif file, either the file provided by integrating several resources or the file converted from public databases.
+
+```shell
+# perl DIR_TO_3DCoop/bin/extract_motif_TR_list.pl DIR_TO_MOTIF/MOTIF_FILE.txt DIR_TO_OUTPUT/OUTPUT_FILE.txt
+perl ./bin/extract_motif_TR_list.pl ./resource/human_TR_motif.txt ./resource/human_TR_motif_list.txt
+```
+
 ## Get TR motifs from databases
 
 Nearly all databases hvae collected TR motifs for many species. Here we use the data for human (*Homo Sapiens*) as the example. The process for data of other species is similar.
@@ -172,15 +181,15 @@ Nearly all databases hvae collected TR motifs for many species. Here we use the 
 
 1. Download PFM data for [**vertebrates**](https://jaspar2018.genereg.net/download/data/2018/CORE/JASPAR2018_CORE_vertebrates_non-redundant_pfms_jaspar.txt) in [**JASPAR CORE**](https://jaspar2018.genereg.net/downloads/).
 
-   ```
+   ```shell
    wget -c https://jaspar.genereg.net/download/data/2022/CORE/JASPAR2022_CORE_vertebrates_non-redundant_pfms_jaspar.txt
    ```
 
 2. Covert the format.
 
-   ```
+   ```shell
    # perl DIR_TO_3DCoop/bin/convert_JASPAR.pl DIR_TO_JASPAR/JASPAR_FILE.txt DIR_TO_OUTPUT/OUTPUT_FILE.txt
-   perl ./bin/convert_JASPAR.pl ./resource/JASPAR2022/JASPAR2022_CORE_vertebrates_non-redundant_pfms_jaspar.txt ./resource/motif_JASPAR2022.txt
+   perl ./bin/convert_JASPAR.pl ./resource/JASPAR2022/JASPAR2022_CORE_vertebrates_non-redundant_pfms_jaspar.txt ./resource/human_motif_JASPAR2022.txt
    ```
 
 ### [CIS-BP](http://cisbp.ccbr.utoronto.ca/)
@@ -189,22 +198,22 @@ Nearly all databases hvae collected TR motifs for many species. Here we use the 
 
 2. Convert the format.
 
-   ```
+   ```shell
    # perl DIR_TO_3DCoop/bin/convert_CISBP.pl DIR_TO_CISBP DIR_TO_OUTPUT/OUTPUT_FILE.txt
-   perl ./bin/convert_CISBP.pl ./resource/CISBP_v2 ./resource/motif_CISBPv2.txt
+   perl ./bin/convert_CISBP.pl ./resource/CISBP_v2 ./resource/human_motif_CISBPv2.txt
    ```
 
 ### [HOCOMOCO](https://hocomoco11.autosome.ru/)
 
 1. Download matrices from [core collection (primary binding models of ABC quality)](https://hocomoco11.autosome.ru/downloads_v11) in [JASPAR format](https://hocomoco11.autosome.ru/final_bundle/hocomoco11/core/HUMAN/mono/HOCOMOCOv11_core_HUMAN_mono_jaspar_format.txt).
 
-   ```
+   ```shell
    wget -c https://hocomoco11.autosome.ru/final_bundle/hocomoco11/core/HUMAN/mono/HOCOMOCOv11_core_HUMAN_mono_jaspar_format.txt
    ```
 
 2. Convert the format.
 
-   ```
+   ```shell
    # perl DIR_TO_3DCoop/bin/convert_HOCOMOCO.pl DIR_TO_HOCOMOCO/HOCOMOCO_FILE.txt DIR_TO_OUTPUT/OUTPUT_FILE.txt
-   perl ./bin/convert_HOCOMOCO.pl ./resource/HOCOMOCOv11/HOCOMOCOv11_core_HUMAN_mono_jaspar_format.txt ./resource/motif_HOCOMOCOv11.txt
+   perl ./bin/convert_HOCOMOCO.pl ./resource/HOCOMOCOv11/HOCOMOCOv11_core_HUMAN_mono_jaspar_format.txt ./resource/human_motif_HOCOMOCOv11.txt
    ```
