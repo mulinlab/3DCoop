@@ -6,7 +6,7 @@ use utf8;
 
 if ( @ARGV < 2 ) {
     print STDERR
-      "$ARGV[0] should be the path to the raw file downloaded from JASPAR!\n";
+      "$ARGV[0] should be the path to the raw file in JASPAR format downloaded from HOCOMOCO!\n";
     print STDERR "$ARGV[1] should be the path to the output file!\n";
     exit;
 }
@@ -84,4 +84,3 @@ sub jaspar_RAW2PPM {
     }
     return (@lines_ppm);
 }
-
