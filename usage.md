@@ -83,7 +83,7 @@ The keys in the first column and corresponding values in the second column are e
 
 Make sure the conda environment (`3DCoop` as example) has been activated before running the pipeline.
 
-The 3DCoop pipeline is running in sequential steps:
+The 3DCoop pipeline runs in sequential steps:
 
 ```shell
 # STEP1: prepare data for Jaccard calculation
