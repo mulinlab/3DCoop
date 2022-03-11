@@ -41,7 +41,7 @@ If you encounter problems during conda installation or 3DCoop environment settin
 
 ## Usage
 
-After installation of 3DCoop, this pipeline can be used with prepared inputs and a configuration file. The details for preparing and running are described in the [usage manual](./usage.md).
+After installation of 3DCoop, this pipeline can be used with prepared inputs and a configuration file. The details for preparing and running are described in the [usage manual](./usage.md) and the [Wiki](https://github.com/mulinlab/3DCoop/wiki).
 
 ## Credits
 3DCoop was written by Xianfu Yi, member of the Mulin group.
