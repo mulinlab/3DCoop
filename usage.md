@@ -217,3 +217,28 @@ Nearly all databases hvae collected TR motifs for many species. Here we use the 
    # perl DIR_TO_3DCoop/bin/convert_HOCOMOCO.pl DIR_TO_HOCOMOCO/HOCOMOCO_FILE.txt DIR_TO_OUTPUT/OUTPUT_FILE.txt
    perl ./bin/convert_HOCOMOCO.pl ./resource/HOCOMOCOv11/HOCOMOCOv11_core_HUMAN_mono_jaspar_format.txt ./resource/human_motif_HOCOMOCOv11.txt
    ```
+
+## Convert and filter expression
+
+1. Convert expression from RPKM/FPKM to TPM
+
+   ```shell
+   # perl DIR_TO_3DCoop/bin/convert_rpkm2tpm.pl DIR_TO_EXPRESSION/RPKM_FILE.txt DIR_TO_OUTPUT/TPM_FILE.txt
+   perl ./bin/convert_rpkm2tpm.pl ./K562/expression/K562_rpkm.txt ./K562/expression/K562_tpm.txt
+   ```
+
+2. Filter expression with TPM cutoff
+
+   ```shell
+   # perl DIR_TO_3DCoop/bin/filter_tpm.pl TPM_CUTOFF DIR_TO_EXPRESSION/TPM_FILE.txt DIR_TO_OUTPUT/TPM_FILE.txt
+   perl ./bin/filter_tpm.pl 10 ./K562/expression/K562_tpm.txt ./K562/expression/K562_tpm_cutoff10.txt
+   ```
+
+3. Select TRs
+
+   ```shell
+   # perl DIR_TO_3DCoop/bin/extract_TR_list.pl DIR_TO_TR/ALL_TR_FILE.txt DIR_TO_GENE/GENE_ID_SYMBOL.txt DIR_TO_EXPRESSION/TPM_FILTERED.txt DIR_TO_OUTPUT/TR_LIST.txt
+   perl ./bin/extract_TR_list.pl ./resource/human_TR_motif_list.txt ./K562/expression/gene_id2name.txt ./K562/expression/K562_tpm_cutoff10.txt ./K562/expression/K562_TR_list.txt
+   ```
+
+   
