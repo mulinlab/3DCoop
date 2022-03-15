@@ -241,4 +241,23 @@ Nearly all databases hvae collected TR motifs for many species. Here we use the 
    perl ./bin/extract_TR_list.pl ./resource/human_TR_motif_list.txt ./K562/expression/gene_id2name.txt ./K562/expression/K562_tpm_cutoff10.txt ./K562/expression/K562_TR_list.txt
    ```
 
-   
+
+## Run PIQ in batch mode
+
+1. Generate the PWM hits for motifs in batch mode
+
+   ```shell
+   # bash DIR_TO_3DCoop/bin/PIQ_hit_PWM.sh DIR_TO_PIQ FILE_MOTIF DIR_TO_OUTPUT
+   bash ./bin/PIQ_hit_PWM.sh ./PIQ ./resource/human_TR_motif.txt ./output/PIQ/PWM
+   ```
+
+   This script will count the total number of motifs in the motif file, and generate the PWM hits for motifs one-by-one.
+
+2. Make calls by combining PWM and BAM for motifs in batch mode
+
+   ```shell
+   # bash DIR_TO_3DCoop/bin/PIQ_make_calls.sh DIR_TO_PIQ FILE_MOTIF DIR_TO_PWM FILE_BAM_RDATA DIR_TO_OUTPUT
+   bash ./bin/PIQ_make_calls.sh ./PIQ ./resource/human_TR_motif.txt ./output/PIQ/PWM ./output/PIQ/BAM ./output/PIQ
+   ```
+
+   This script will count the total number of motifs in the motif file, and make calls for motifs one-by-one.
