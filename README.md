@@ -4,9 +4,9 @@
 
 ## Overview
 
-The intact cooperation of transcriptional regulators (TRs), including transcription factors (TF), RNA-binding protein (RBP), chromatin remodeler, and other factors, modulate saptiotemporal gene expression in the nucleus precisely. Deciphering the relationship among these TRs in the context of 3D chromatin and specific cell type will facilitate the understanding of the complex transcriptional regulation in cell differentiation and disease development.
+The intact cooperation of transcriptional regulators (TRs), including transcription factors (TF), RNA-binding protein (RBP), chromatin remodeler, and other factors, modulate saptiotemporal gene expression in the nucleus precisely. Deciphering the relationship among these TRs in the context of 3D chromatin and specific tissue/cell type will facilitate the understanding of the complex transcriptional regulation in cell differentiation and disease development.
 
-3DCoop is an approach for computational inference of cell type-specific TR cooperation in 3D chromatin (and 1D mode without 3D information), by incorporating 3D chromatin interactions (required for 3D mode) and TR footprinting. Chromatin loops detected by 3C-based technologies (Hi-C, PCHi-C, ChIA-PET, HiChIP, *et al.*) can be used as the 3D chromatin interactions. The TR footprinting can be collected from ChIP-seq datasets, or be predicted by [PIQ](http://piq.csail.mit.edu) (incorporated in this repo) or similar tools using open chromatin profiles (DNase/ATAC-seq data) and TR motifs. We have collected TR motifs from several resources as described in [3DCoop publication](#Citation). The human and mouse TR motifs which can be used in the PIQ pipeline have been incorporated in the `resource` folder.
+3DCoop is an approach for computational inference of cell type-specific TR cooperation in 3D chromatin (and 1D mode without 3D information), by incorporating 3D chromatin interactions (required for 3D mode) and TR footprinting. Chromatin loops detected by 3C-based technologies (Hi-C, PCHi-C, ChIA-PET, HiChIP, etc.) can be used as the 3D chromatin interactions. The TR footprinting can be collected from ChIP-seq datasets, or be predicted by [PIQ](http://piq.csail.mit.edu) (incorporated in this repo) or similar tools using open chromatin profiles (DNase/ATAC-seq data) and TR motifs. We have collected TR motifs from several resources as described in [3DCoop publication](#Citation). The human and mouse TR motifs which can be used in the PIQ pipeline have been incorporated in the `resource` folder.
 
 ## Installation
 
@@ -16,8 +16,8 @@ Then, you can install 3DCoop:
 
 ```bash
 cd ~
-git clone https://github.com/mulinlab/3Dcoop
-cd 3Dcoop
+git clone https://github.com/mulinlab/3DCoop
+cd 3DCoop
 bash conda.sh
 ```
 
@@ -41,7 +41,7 @@ If you encounter problems during conda installation or 3DCoop environment settin
 
 ## Usage
 
-After installation of 3DCoop, this pipeline can be used with prepared inputs and a configuration file. The details for preparing and running are described in the [usage manual](./usage.md) and the [Wiki](https://github.com/mulinlab/3DCoop/wiki).
+After installation of 3DCoop, this pipeline can be used with prepared inputs and a configuration file. The details for preparing inputs and running pipeline are described in the [usage manual](./usage.md) and the [Wiki](https://github.com/mulinlab/3DCoop/wiki).
 
 ## Credits
 3DCoop was written by Xianfu Yi, member of the Mulin group.

@@ -1,6 +1,6 @@
 # Frequently Asked Questions (FAQ) about conda
 
-1. `conda` can't be used, or the conda environment  can't be activated using `conda`. The error might be `CommandNotFoundError: Your shell has not been properly configured to use 'conda deactivate'`.
+1. `conda` can't be used, or the conda environment can't be activated using `conda`. The error might be `CommandNotFoundError: Your shell has not been properly configured to use 'conda deactivate'`.
 
    There are several reasons for this. But you can try the following actions one-by-one (suppose the [Miniconda](https://docs.conda.io/en/latest/miniconda.html) is installed).
 
@@ -25,7 +25,7 @@
       
     4. Use `source activate` and `source deactivate` instead of `conda activate` and `conda deactivate`.
    
-    5. Read and follow the detailed installation instruction, such as:
+    5. Read and follow the detailed installation instruction:
    
        * [Installation — conda documentation](https://conda.io/projects/conda/en/latest/user-guide/install/index.html)
        * [Installing on Linux — Anaconda documentation](https://docs.anaconda.com/anaconda/install/linux/)
@@ -33,7 +33,7 @@
    
 2. The 3DCoop environment can't be setting up successfully.
 
-   To make it easier to find out which software installation is making the installation process difficult, you can install them one-by-one.
+   To make it easier to find out which software installation is making the installation process difficult, you can install them one-by-one until the issue reproduces.
    ```
    conda create -n 3DCoop                               # Create the environment
    
