@@ -66,6 +66,23 @@ extract_clique	no
 pie	true
 ```
 
+The table view shows as:
+
+|      key       |  value  |
+| :------------: | :-----: |
+|    species     |  human  |
+|      mode      |   3D    |
+|     build      |  hg19   |
+|    binsize     |   5kb   |
+|     dir_in     | inputs  |
+|    dir_out     | outputs |
+|     cells      |  K562   |
+|    fraction    |    1    |
+|      cpus      |   20    |
+|    cutoffs     |  0.05   |
+| extract_clique |   no    |
+|      pie       |  true   |
+
 The keys in the first column and corresponding values in the second column are explained:
 
 * `species`: `human` or `mouse`.
